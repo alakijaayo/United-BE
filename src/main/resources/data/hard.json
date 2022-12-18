@@ -1,0 +1,553 @@
+{
+  "hard": [
+    {
+      "number": 1,
+      "question": "Manchester United won their first European Cup/Champions League in 1968. But which Maltese football team did they beat in the first round 4-0 on aggregate?",
+      "option_a": "Hibernians",
+      "option_b": "Mosta",
+      "option_c": "Qormi",
+      "option_d": "Floriana",
+      "correct": "Hibernians"
+    },
+    {
+      "number": 2,
+      "question": "During the 1991 European Cup winner's cup success, United played one team from the English league during the campaign. Who were they?",
+      "option_a": "Stockport",
+      "option_b": "Fulham",
+      "option_c": "Crystal Palace",
+      "option_d": "Wrexham",
+      "correct": "Wrexham"
+    },
+    {
+      "number": 3,
+      "question": "Who were the Reds playing when Nicky Butt was dismissed for the first time in senior competition, in January 1996?",
+      "option_a": "Derby County",
+      "option_b": "Newcastle United",
+      "option_c": "Liverpool",
+      "option_d": "West Ham United",
+      "correct": "West Ham United"
+    },
+    {
+      "number": 4,
+      "question": "Crompton, Carey, Aston (Sr), Anderson, Chilton, Cockburn, Delaney, Morris, Pearson, Mitton. Which of the following also started the 1948 FA Cup final for Manchester United?",
+      "option_a": "Jack Warner",
+      "option_b": "Jack Rowley",
+      "option_c": "Laurie Cassidy",
+      "option_d": "Harry Worrall",
+      "correct": "Jack Rowley"
+    },
+    {
+      "number": 5,
+      "question": "The match immediately after Sir Matt Busby's death in 1994 was a home game against Everton, which United won 1-0. Who scored the winning goal?",
+      "option_a": "Lee Sharpe",
+      "option_b": "Roy Keane",
+      "option_c": "Ryan Giggs",
+      "option_d": "Brian McClair",
+      "correct": "Ryan Giggs"
+    },
+    {
+      "number": 6,
+      "question": "Who was the United manager when Sir Bobby Charlton ended his Old Trafford career?",
+      "option_a": "Dave Sexton",
+      "option_b": "Tommy Docherty",
+      "option_c": "Wilf McGuinness",
+      "option_d": "Frank O'Farrell",
+      "correct": "Tommy Docherty"
+    },
+    {
+      "number": 7,
+      "question": "Schmeichel, Keane, Bruce, Pallister, Irwin, Kanchelskis, Ince, Giggs, Cole, Hughes. Which of the following also started the 9-0 win over Ipswich for Manchester United?",
+      "option_a": "Nicky Butt",
+      "option_b": "Lee Sharpe",
+      "option_c": "Brian McClair",
+      "option_d": "Gary Walsh",
+      "correct": "Brian McClair"
+    },
+    {
+      "number": 8,
+      "question": "United's record win in the FA Cup is an 8-0 win over Yeovil Town. What year was that?",
+      "option_a": 1949,
+      "option_b": 1956,
+      "option_c": 1963,
+      "option_d": 1967,
+      "correct": 1949
+    },
+    {
+      "number": 9,
+      "question": "Van Der Sar, Brown, Ferdinand, Heinze, Ronaldo, Fletcher, Carrick, Giggs, Rooney, Smith. Name the missing player who started United's record 7-1 win in the Champions League?",
+      "option_a": "Patrice Evra",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Kieran Richardson",
+      "option_d": "John O'Shea",
+      "correct": "John O'Shea"
+    },
+    {
+      "number": 10,
+      "question": "Although 7-1 is United's Champions League record win, it is not their biggest European win. Which Belgian club did it come against and what was the score?",
+      "option_a": "FC Basel (9-2)",
+      "option_b": "Anderlecht (10-0)",
+      "option_c": "Inter Grasshopper Club Zürich (15-0)",
+      "option_d": "BSC Young Boys (13-1)",
+      "correct": "Anderlecht (10-0)"
+    },
+    {
+      "number": 11,
+      "question": "In the 3 seasons he was at Manchester United, how many goals did Jesper Blomqvist score?",
+      "option_a": 1,
+      "option_b": 2,
+      "option_c": 3,
+      "option_d": 0,
+      "correct": 1
+    },
+    {
+      "number": 12,
+      "question": "There have only been nine transfers between Manchester United and their heated rivals Liverpool. When was the last time a transfer bwteeen these two clubs happened?",
+      "option_a": 1929,
+      "option_b": 1964,
+      "option_c": 1954,
+      "option_d": 1938,
+      "correct": 1964
+    },
+    {
+      "number": 13,
+      "question": "Which one of these teams does NOT share the record for heaviest defeat of Manchester United with 7-0?",
+      "option_a": "Blackburn Rovers",
+      "option_b": "Aston Villa",
+      "option_c": "Wolverhampton Wanderers",
+      "option_d": "Birmingham City",
+      "correct": "Birmingham City"
+    },
+    {
+      "number": 14,
+      "question": "Schmeichel, Irwin, P Neville, Keane, Pallister, Cantona, Beckham, Cole, Butt, Giggs. Which of the following also started the 1996 FA Cup final for Manchester United?",
+      "option_a": "David May",
+      "option_b": "Paul Scholes",
+      "option_c": "Paul Parker",
+      "option_d": "Gary Neville",
+      "correct": "David May"
+    },
+    {
+      "number": 15,
+      "question": "What was the first ever number worn by Eric Cantona for Manchester United?",
+      "option_a": 7,
+      "option_b": 10,
+      "option_c": 12,
+      "option_d": 14,
+      "correct": 12
+    },
+    {
+      "number": 16,
+      "question": "Where in the table did Manchester United finish in Sir Alex Ferguson's first full season at the club?",
+      "option_a": "11th",
+      "option_b": "2nd",
+      "option_c": "4th",
+      "option_d": "7th",
+      "correct": "2nd"
+    },
+    {
+      "number": 17,
+      "question": "Manchester United's first full league campaign in the top flight of English football was in the 1892-1893 season. What position did they finish that year?",
+      "option_a": "1st",
+      "option_b": "5th",
+      "option_c": "16th",
+      "option_d": "8th",
+      "correct": "16th"
+    },
+    {
+      "number": 18,
+      "question": "Schmeichel, G Neville, Johnsen, May, P Neville, Keane, Beckham, Scholes, Cole, Giggs. Which of the following also started the 1999 FA Cup final for Manchester United?",
+      "option_a": "Denis Irwin",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Jaap Stam",
+      "option_d": "Teddy Sheringham",
+      "correct": "Ole Gunnar Solskjaer"
+    },
+    {
+      "number": 19,
+      "question": "Paul Scholes made his debut on 21st September 1994. Who was it against?",
+      "option_a": "Ipswich Town",
+      "option_b": "Queens Park Rangers",
+      "option_c": "Coventry City",
+      "option_d": "Port Vale",
+      "correct": "Port Vale"
+    },
+    {
+      "number": 20,
+      "question": "1974-75: which team did United draw 2-2 against to confirm their second division championship and promotion back to the top flight?",
+      "option_a": "Portsmouth",
+      "option_b": "Notts County",
+      "option_c": "Leyton Orient",
+      "option_d": "Bristol Rovers",
+      "correct": "Notts County"
+    },
+    {
+      "number": 21,
+      "question": "Which club did Frank O'Farrell leave to become United manager?",
+      "option_a": "Chelsea",
+      "option_b": "Leicester City",
+      "option_c": "Arsenal",
+      "option_d": "Everton",
+      "correct": "Leicester City"
+    },
+    {
+      "number": 22,
+      "question": "Wayne Rooney scored a hat-trick on his Manchester United debut, which was a Champions League match. Which other player scored a hat-trick on his Manchester United debut?",
+      "option_a": "Robin Van Persie",
+      "option_b": "Bryan Robson",
+      "option_c": "Charles Sagar",
+      "option_d": "Paul Scholes",
+      "correct": "Charles Sagar"
+    },
+    {
+      "number": 23,
+      "question": "From which club was Irish international Denis Irwin signed from?",
+      "option_a": "Derby County",
+      "option_b": "Leeds United",
+      "option_c": "Oldham Athletic",
+      "option_d": "West Bromwich Albion",
+      "correct": "Oldham Athletic"
+    },
+    {
+      "number": 24,
+      "question": "Denis Law has enjoyed a number of hat-tricks as a Manchester United player. Against how many different teams did he score a hat-trick?",
+      "option_a": 15,
+      "option_b": 16,
+      "option_c": 17,
+      "option_d": 18,
+      "correct": 18
+    },
+    {
+      "number": 25,
+      "question": "After winning the European Cup in 1968, who did Man Utd play in the World Club Championship the following year?",
+      "option_a": "Vasco Da Gama",
+      "option_b": "Estudiantes",
+      "option_c": "Santos",
+      "option_d": "River Plate",
+      "correct": "Estudiantes"
+    },
+    {
+      "number": 26,
+      "question": "Wayne Rooney's last Champions League goal for Manchester United came against which club?",
+      "option_a": "CSKA Moscow",
+      "option_b": "Club Brugge",
+      "option_c": "Bayer Leverkusen",
+      "option_d": "Braga",
+      "correct": "CSKA Moscow"
+    },
+    {
+      "number": 27,
+      "question": "Of Wayne Rooney's 34 Champions League goals for Manchester united, how many were scored against Italian clubs?",
+      "option_a": 5,
+      "option_b": 8,
+      "option_c": 3,
+      "option_d": 10,
+      "correct": 10
+    },
+    {
+      "number": 28,
+      "question": "Who holds the record for most consecutive league appearances for United?",
+      "option_a": "Joe Jordan",
+      "option_b": "Denis Law",
+      "option_c": "Steve Coppell",
+      "option_d": "Ryan Giggs",
+      "correct": "Steve Coppell"
+    },
+    {
+      "number": 29,
+      "question": "United have won the Charity Shield 21 times. How many times have they shared it?",
+      "option_a": 0,
+      "option_b": 2,
+      "option_c": 4,
+      "option_d": 6,
+      "correct": 4
+    },
+    {
+      "number": 30,
+      "question": "Of United's top four record goalscorers, who scored the most in the FA Cup?",
+      "option_a": "Wayne Rooney",
+      "option_b": "Bobby Charlton",
+      "option_c": "Denis Law",
+      "option_d": "Jack Rowley",
+      "correct": "Denis Law"
+    },
+    {
+      "number": 31,
+      "question": "Of United's top ten record goalscorers, who has the most goals in the League Cup?",
+      "option_a": "Dennis Viollet",
+      "option_b": "Jack Rowley",
+      "option_c": "Paul Scholes",
+      "option_d": "Mark Hughes",
+      "correct": "Mark Hughes"
+    },
+    {
+      "number": 32,
+      "question": "Against which team did David Beckham score his first Champions League goal for Manchester United?",
+      "option_a": "Rapid Wein",
+      "option_b": "Brondby",
+      "option_c": "Galatasaray",
+      "option_d": "Croatia Zagreb",
+      "correct": "Galatasaray"
+    },
+    {
+      "number": 33,
+      "question": "Schmeichel, Martin, Irwin, Bruce, Pallister, Kanchelskis, Ince, McClair, Hughes, Blackmore. Which of the following also started the 1991 European Super Cup final for United?",
+      "option_a": "Mal Donaghy",
+      "option_b": "Ryan Giggs",
+      "option_c": "Neil Webb",
+      "option_d": "Mark Robins",
+      "correct": "Neil Webb"
+    },
+    {
+      "number": 34,
+      "question": "Sealey, Irwin, Blackmore, Bruce, Pallister, Robson, Ince, McClair, Hughes, Sharpe. Who else started the 1991 European Cup-Winners Cup Final?",
+      "option_a": "Neil Webb",
+      "option_b": "Mark Robins",
+      "option_c": "Danny Wallace",
+      "option_d": "Mike Phelan",
+      "correct": "Mike Phelan"
+    },
+    {
+      "number": 35,
+      "question": "Which team finished runners-up to United in the 1966-67 First Division season?",
+      "option_a": "Tottenham Hotspur",
+      "option_b": "Leeds United",
+      "option_c": "Nottingham Forest",
+      "option_d": "Stoke City",
+      "correct": "INottingham Forest"
+    },
+    {
+      "number": 36,
+      "question": "Manchester United beat which Polish team in the Quarter-Final on the way to winning the 1968 European Cup?",
+      "option_a": "LKS Lodz",
+      "option_b": "Polonia Warsaw",
+      "option_c": "Legia Warsaw",
+      "option_d": "Górnik Zabrze",
+      "correct": "Górnik Zabrze"
+    },
+    {
+      "number": 37,
+      "question": "Van Der Sar, Ferdinand, Vidic, Evra, Ji-Sung, Carrick, Anderson, Ronaldo, Tevex, Rooney. Who else started the 1-0 win against LDU Quito in the 2008 FIFA Club World Cup?",
+      "option_a": "Darren Fletcher",
+      "option_b": "Jonny Evans",
+      "option_c": "Gary Neville",
+      "option_d": "Rafael Da Silva",
+      "correct": "Rafael Da Silva"
+    },
+    {
+      "number": 38,
+      "question": "Van Der Gouw, G Neville, Stam, Berg, P Neville, Beckham, Keane, Scholes, Cole, Solskjaer. Who else started the 1-0 loss to Lazio in the 1999 UEFA Super Cup?",
+      "option_a": "Teddy Sheringham",
+      "option_b": "Dwight Yorke",
+      "option_c": "Ryan Giggs",
+      "option_d": "Jordi Cruyff",
+      "correct": "Teddy Sheringham"
+    },
+    {
+      "number": 39,
+      "question": "Against which team did United play their first ever european match?",
+      "option_a": "Real Madrid",
+      "option_b": "Hibernians",
+      "option_c": "Anderlecht",
+      "option_d": "Celtic",
+      "correct": "Anderlecht"
+    },
+    {
+      "number": 40,
+      "question": "Bobby Charlton scored two goals in his debut against which club?",
+      "option_a": "Charlton Athletic",
+      "option_b": "Barnsley",
+      "option_c": "Accrington Stanley",
+      "option_d": "Sheffield Wednesday",
+      "correct": "Charlton Athletic"
+    },
+    {
+      "number": 41,
+      "question": "United's first match at Old Trafford was against Liverpool in 1910. Liverpool won, but what was the score?",
+      "option_a": "3-0",
+      "option_b": "2-1",
+      "option_c": "4-3",
+      "option_d": "5-2",
+      "correct": "4-3"
+    },
+    {
+      "number": 42,
+      "question": "Gordon Strachan scored a goal on his debut against which club?",
+      "option_a": "West Ham United",
+      "option_b": "Derby County",
+      "option_c": "Manchester City",
+      "option_d": "Watford",
+      "correct": "Watford"
+    },
+    {
+      "number": 43,
+      "question": "Against which team did Bobby Charlton score the most goals against as a United player?",
+      "option_a": "Sheffield Wednesday",
+      "option_b": "Blackpool",
+      "option_c": "Tottenham Hotspur",
+      "option_d": "Wolves",
+      "correct": "Tottenham Hotspur"
+    },
+    {
+      "number": 44,
+      "question": "Van Der Sar, Neville, Brown, Ferdinand, Silvestre, Ronaldo, Giggs, Ji-Sung, Rooney, Saha. Who else started the 2006 League Cup Final?",
+      "option_a": "Patrice Evra",
+      "option_b": "Nemanja Vidić",
+      "option_c": "Keiran Richardson",
+      "option_d": "John O'Shea",
+      "correct": "John O'Shea"
+    },
+    {
+      "number": 45,
+      "question": "Sealey, Parker, Bruce, Pallister, Irwin, Kanchelskis, Keane, Giggs, Hughes, Cantona. Who else started the 1994 League Cup Final loss to Aston Villa?",
+      "option_a": "Paul Ince",
+      "option_b": "Gary Walsh",
+      "option_c": "Lee Sharpe",
+      "option_d": "Brian McClair",
+      "correct": "Paul Ince"
+    },
+    {
+      "number": 46,
+      "question": "Barthez, Neville, Brown, Ferdinand, Silvestre, Beckham, Keane, Giggs, Scholes, Van Nistelrooy. Who else started the 2003 League Cup Final loss to Liverpool?",
+      "option_a": "Ole Gunnar Solskjaer",
+      "option_b": "John O'Shea",
+      "option_c": "Nicky Butt",
+      "option_d": "Juan Sebastián Verón",
+      "correct": "Juan Sebastián Verón"
+    },
+    {
+      "number": 47,
+      "question": "Schmeichel, Neville, Bruce, Pallister, Irwin, Ince, Keane, Sharpe, Hughes, McClair. Who else started the 1995 FA Cup Final loss against Everton?",
+      "option_a": "Paul Scholes",
+      "option_b": "Ryan Giggs",
+      "option_c": "Nicky Butt",
+      "option_d": "Gary Walsh",
+      "correct": "Nicky Butt"
+    },
+    {
+      "number": 48,
+      "question": "De Gea, Varela, Carrick, Blind, Herrera, Schneiderlin, Lingard, Mata, Depay, Rashford. Which player is missing from the line-up that beat Midtylland 5-1 in the Europa League?",
+      "option_a": "Regan Poole",
+      "option_b": "Donald Love",
+      "option_c": "Paddy McNair",
+      "option_d": "Joe Riley",
+      "correct": "Joe Riley"
+    },
+    {
+      "number": 49,
+      "question": "Who was the first Manchester United player to score a European Cup hat-trick?",
+      "option_a": "George Best",
+      "option_b": "Denis Law",
+      "option_c": "Tommy Taylor",
+      "option_d": "Dennis Viollet",
+      "correct": "Tommy Taylor"
+    },
+    {
+      "number": 50,
+      "question": "On their way to winning the 1990/91 European Cup Winners Cup, two United players scored 4 goals. Brian McClair was one, but who was the other?",
+      "option_a": "Mark Hughes",
+      "option_b": "Clayton Blackmore",
+      "option_c": "Lee Sharpe",
+      "option_d": "Steve Bruce",
+      "correct": "Steve Bruce"
+    },
+    {
+      "number": 51,
+      "question": "Manchester United signed Danish winger Jesper Olsen from Ajax in 1984. What was the fee paid for him?",
+      "option_a": "£400,000",
+      "option_b": "£200,000",
+      "option_c": "£800,000",
+      "option_d": "£350,000",
+      "correct": "£350,000"
+    },
+    {
+      "number": 52,
+      "question": "Who were Utd's last European opponents before the English ban was placed?",
+      "option_a": "Ferencváros",
+      "option_b": "Videoton",
+      "option_c": "Zalaegerszeg",
+      "option_d": "Debrecen",
+      "correct": "Videoton"
+    },
+    {
+      "number": 53,
+      "question": "Bailey, Gidman, Albiston, Whiteside, McGrath, Moran, Robson, Strachan, Hughes, Stapleton. Which of the following also started the 1985 FA Cup final for Manchester United?",
+      "option_a": "Jesper Olsen",
+      "option_b": "Graeme Hogg",
+      "option_c": "Alan Brazil",
+      "option_d": "Mike Duxbury",
+      "correct": "Jesper Olsen"
+    },
+    {
+      "number": 54,
+      "question": "1964-65: United played Arsenal at Old Trafford. If United won this game they would win the championship with a game in hand. What was the final scoreline?",
+      "option_a": "2-0 Arsenal",
+      "option_b": "3-1 United",
+      "option_c": "4-2 Arsenal",
+      "option_d": "4-0 United",
+      "correct": "3-1 United"
+    },
+    {
+      "number": 55,
+      "question": "Who scored Manchester United's goal in the 1-0 victory over Liverpool in the 1979 FA Cup Semi-Final replay?",
+      "option_a": "Martin Buchan",
+      "option_b": "Jimmy Greenhoff",
+      "option_c": "Lou Macari",
+      "option_d": "Arthur Albiston",
+      "correct": "Jimmy Greenhoff"
+    },
+    {
+      "number": 56,
+      "question": "Schmeichel, Parker, Irwin, Bruce, Pallister, Cantona, Ince, Keane, Hughes, Giggs. Which of the following also started the 1994 FA Cup final for Manchester United?",
+      "option_a": "Lee Sharpe",
+      "option_b": "Brian McClair",
+      "option_c": "Bryan Robson",
+      "option_d": "Andrei Kanchelskis",
+      "correct": "Andrei Kanchelskis"
+    },
+    {
+      "number": 57,
+      "question": "Schmeichel, P.Nevile, Bruce, Pallister, Sharpe, Beckham, Butt, Keane, Cole, Giggs. Which of the following also started the 1995 First Round, 2nd Leg for Manchester United against Rotor Volgograd?",
+      "option_a": "John O'Kane",
+      "option_b": "Terry Cooke",
+      "option_c": "Chris Casper",
+      "option_d": "Andrei Kanchelskis",
+      "correct": "John O'Kane"
+    },
+    {
+      "number": 58,
+      "question": "Dimitar Berbatov scored a hat-trick against Liverpool in 2010. Before this match the last hat-trick to be scored in a match between the two teams was in ____?",
+      "option_a": 1998,
+      "option_b": 1970,
+      "option_c": 1946,
+      "option_d": 1967,
+      "correct": 1946
+    },
+    {
+      "number": 59,
+      "question": "Bobby Charlton made his final league appearance for Manchester United in 1973, but his day was spoilt by a 1-0 defeat at which ground?",
+      "option_a": "Maine Road",
+      "option_b": "Villa Park",
+      "option_c": "Highbury",
+      "option_d": "Stamford Bridge",
+      "correct": "Stamford Bridge"
+    },
+    {
+      "number": 60,
+      "question": "Schmeichel, G.Nevile, P.Nevile, Pallister, May, Beckham, Butt, Keane, Scholes, Cantona. Who else started the 6-3 loss to Southampton?",
+      "option_a": "Karel Poborsky",
+      "option_b": "Ben Thornley",
+      "option_c": "Jordi Cruyff",
+      "option_d": "Brian McClair",
+      "correct": "Jordi Cruyff"
+    },
+    {
+      "number": 61,
+      "question": "Gaskell, Dunne, Cantwell, Crerand, Setters, Giles, Quixall, Herd, Law, Charlton. Which of the following also started the 1963 FA Cup final for Manchester United?",
+      "option_a": "Nobby Stiles",
+      "option_b": "Shay Brennan",
+      "option_c": "George Best",
+      "option_d": "Bill Foulkes",
+      "correct": "Bill Foulkes"
+    }
+  ]
+}

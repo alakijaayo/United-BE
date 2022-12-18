@@ -1,0 +1,544 @@
+{
+  "medium": [
+    {
+      "number": 1,
+      "question": "Who did Manchester United beat in the Quarter-Final on their way to winning the Champions League in 1999?",
+      "option_a": "Borussia Dortmund",
+      "option_b": "Valencia",
+      "option_c": "Inter Milan",
+      "option_d": "Dynamo Kiev",
+      "correct": "Inter Milan"
+    },
+    {
+      "number": 2,
+      "question": "When did Manchester United first win the FA Cup?",
+      "option_a": 1909,
+      "option_b": 1928,
+      "option_c": 1912,
+      "option_d": 1935,
+      "correct": 1909
+    },
+    {
+      "number": 3,
+      "question": "What club did Manchester United sign Ruud Van Nistelrooy from?",
+      "option_a": "Ajax",
+      "option_b": "Feyenoord",
+      "option_c": "PSV Eindhoven",
+      "option_d": "FC Twente",
+      "correct": "PSV Eindhoven"
+    },
+    {
+      "number": 4,
+      "question": "Which team did Manchester United beat to win the 1991 Cup Winners Cup?",
+      "option_a": "AC Milan",
+      "option_b": "Paris St Germain",
+      "option_c": "Porto",
+      "option_d": "Barcelona",
+      "correct": "Barcelona"
+    },
+    {
+      "number": 5,
+      "question": "United had gone 40 years without defeat in European competition at home but their run was ended in the 1996-97 tournament. Which team ended that run?",
+      "option_a": "Dynamo Kiev",
+      "option_b": "Sporting Lisbon",
+      "option_c": "Deportivo La Coruna",
+      "option_d": "Fenerbache",
+      "correct": "Fenerbache"
+    },
+    {
+      "number": 6,
+      "question": "Where did United sign Steve Bruce from?",
+      "option_a": "Norwich City",
+      "option_b": "Aston Villa",
+      "option_c": "Birmingham City",
+      "option_d": "Hull City",
+      "correct": "Norwich City"
+    },
+    {
+      "number": 7,
+      "question": "Who was the first Manchester United captain from outside the United Kingdom or the Republic of Ireland?",
+      "option_a": "Eric Cantona",
+      "option_b": "Peter Schmeichel",
+      "option_c": "Nemanja Vidic",
+      "option_d": "Dwight Yorke",
+      "correct": "Eric Cantona"
+    },
+    {
+      "number": 8,
+      "question": "Who became Manchester United's Record signing in 2002?",
+      "option_a": "Juan Sebastian Veron",
+      "option_b": "Rio Ferdinand",
+      "option_c": "Ruud Van Nistelrooy",
+      "option_d": "Wayne Rooney",
+      "correct": "Rio Ferdinand"
+    },
+    {
+      "number": 9,
+      "question": "From which of these clubs was Ole Gunnar Solskjaer signed?",
+      "option_a": "FK Brann",
+      "option_b": "Valaerenga",
+      "option_c": "Lillestrom",
+      "option_d": "Molde",
+      "correct": "Molde"
+    },
+    {
+      "number": 10,
+      "question": "Which team did Brian McClair join Manchester United from?",
+      "option_a": "Cork City",
+      "option_b": "Celtic",
+      "option_c": "Aberdeen",
+      "option_d": "Cardiff City",
+      "correct": "Celtic"
+    },
+    {
+      "number": 11,
+      "question": "Against which team did Dwight Yorke open up his Manchester United account?",
+      "option_a": "Charlton Athletic",
+      "option_b": "West Ham",
+      "option_c": "Derby County",
+      "option_d": "Everton",
+      "correct": "Charlton Athletic"
+    },
+    {
+      "number": 12,
+      "question": "From what club did Manchester United sign Andrei Kanchelskis?",
+      "option_a": "Fiorentina",
+      "option_b": "Saturn Moscow Oblast",
+      "option_c": "Dyanmo Kiev",
+      "option_d": "Shakhtar Donetsk",
+      "correct": "Shakhtar Donetsk"
+    },
+    {
+      "number": 13,
+      "question": "After drawing the first leg 1-1, United beat Juventus in a thrilling second leg 3-2 to reach the 1999 Champions League final. Who scored the winner?",
+      "option_a": "Paul Scholes",
+      "option_b": "Dwight Yorke",
+      "option_c": "Andy Cole",
+      "option_d": "Roy Keane",
+      "correct": "Andy Cole"
+    },
+    {
+      "number": 14,
+      "question": "Manchester United have won the UEFA Super Cup just once. In what year did they win it and who did they beat?",
+      "option_a": "Lazio in 1999",
+      "option_b": "Zenit St Petersburg in 2008",
+      "option_c": "Real Madrid in 2017",
+      "option_d": "Red Star Belgrade in 1991",
+      "correct": "Red Star Belgrade in 1991"
+    },
+    {
+      "number": 15,
+      "question": "How many times in United's history have they been relegated?",
+      "option_a": 0,
+      "option_b": 5,
+      "option_c": 3,
+      "option_d": 9,
+      "correct": 5
+    },
+    {
+      "number": 16,
+      "question": "In the 1998-99 Champions League Final v Bayern Munich, Solskjaer and Sheringham (who came on as substitutes) scored the dramatic goals in the last minute of the game, and then in injury time, to give United a 2-1 win. Which two players were replaced by Solskjaer and Sheringam?",
+      "option_a": "Paul Scholes & Roy Keane",
+      "option_b": "Nicky Butt & Dwight Yorke",
+      "option_c": "Jesper Blomqvist & Andy Cole",
+      "option_d": "David Beckham & Dwight Yorke",
+      "correct": "Jesper Blomqvist & Andy Cole"
+    },
+    {
+      "number": 17,
+      "question": "When Andy Cole signed from Newcastle United, who went the other way as part of the deal?",
+      "option_a": "Robbie Savage",
+      "option_b": "Dion Dublin",
+      "option_c": "Paul McGrath",
+      "option_d": "Keith Gillespie",
+      "correct": "Keith Gillespie"
+    },
+    {
+      "number": 18,
+      "question": "Who scored the winning goal in the 1990 F.A. Cup final?",
+      "option_a": "Brian McClair",
+      "option_b": "Lee Martin",
+      "option_c": "Bryan Robson",
+      "option_d": "Gary Pallister",
+      "correct": "Lee Martin"
+    },
+    {
+      "number": 19,
+      "question": "Shinji Kagawa scored his first and only Manchester United hat-trick against which club?",
+      "option_a": "Norwich City",
+      "option_b": "Tottenham Hotspur",
+      "option_c": "Everton",
+      "option_d": "Portsmouth",
+      "correct": "Norwich City"
+    },
+    {
+      "number": 20,
+      "question": "Diego Forlan scored his first United goal against which club?",
+      "option_a": "Tottenham Hotspur",
+      "option_b": "Maccabi Haifa",
+      "option_c": "Aston Villa",
+      "option_d": "Panathinaikos",
+      "correct": "Maccabi Haifa"
+    },
+    {
+      "number": 21,
+      "question": "Teddy Sheringham made 149 appearances in a United shirt. How many goals did he score?",
+      "option_a": 56,
+      "option_b": 86,
+      "option_c": 46,
+      "option_d": 66,
+      "correct": 46
+    },
+    {
+      "number": 22,
+      "question": "Which of these United players retired with 129 caps for their country?",
+      "option_a": "David Beckham",
+      "option_b": "Peter Schmeichel",
+      "option_c": "Edwin Van Der Saar",
+      "option_d": "Wayne Rooney",
+      "correct": "Peter Schmeichel"
+    },
+    {
+      "number": 23,
+      "question": "In the 1985 FA Cup Semi-Final replay Manchester United defeated Liverpool 2-1. Which two players scored United's goals?",
+      "option_a": "Gordon Strachen & Paul McGrath",
+      "option_b": "Frank Stapleton & Norman Whiteside",
+      "option_c": "Mark Hughes & Bryan Robson",
+      "option_d": "Graeme Hogg & Norman Whiteside",
+      "correct": "Mark Hughes & Bryan Robson"
+    },
+    {
+      "number": 24,
+      "question": "Which of these players has the most appearances for Manchester United?",
+      "option_a": "Ryan Giggs",
+      "option_b": "Paul Scholes",
+      "option_c": "Gary Neville",
+      "option_d": "Bill Foulkes",
+      "correct": "Ryan Giggs"
+    },
+    {
+      "number": 25,
+      "question": "Wayne Rooney scored how many goals in europe for Manchester United?",
+      "option_a": 34,
+      "option_b": 36,
+      "option_c": 39,
+      "option_d": 45,
+      "correct": 39
+    },
+    {
+      "number": 26,
+      "question": "How many Manchester United players have won the Ballon d'Or whilst wearing the United shirt?",
+      "option_a": 2,
+      "option_b": 6,
+      "option_c": 4,
+      "option_d": 8,
+      "correct": 4
+    },
+    {
+      "number": 27,
+      "question": "Wayne Rooney scored 10 of his 34 goals in the Champions League against two Italian teams. Who were they?",
+      "option_a": "Roma & AC Milan",
+      "option_b": "Inter Milan & Juventus",
+      "option_c": "Roma & Inter Milan",
+      "option_d": "AC Milan & Inter Milan",
+      "correct": "Roma & AC Milan"
+    },
+    {
+      "number": 28,
+      "question": "How many goals did United score on the way to winning the 1999 Champions League?",
+      "option_a": 20,
+      "option_b": 25,
+      "option_c": 29,
+      "option_d": 36,
+      "correct": 29
+    },
+    {
+      "number": 29,
+      "question": "How many goals did United score on their way to winning the 2008 Champions League final?",
+      "option_a": 13,
+      "option_b": 20,
+      "option_c": 24,
+      "option_d": 18,
+      "correct": 20
+    },
+    {
+      "number": 30,
+      "question": "Who holds the record for most goals scored in all competitions in one season for United?",
+      "option_a": "Sir Bobby Charlton",
+      "option_b": "Denis Law",
+      "option_c": "Ruud Van Nistelrooy",
+      "option_d": "Cristiano Ronaldo",
+      "correct": "Denis Law"
+    },
+    {
+      "number": 31,
+      "question": "Cristiano Ronaldo is the most recent player to win the Ballon D'Or in a United shirt. Who was the last person before him?",
+      "option_a": "Sir Bobby Charlton",
+      "option_b": "George Best",
+      "option_c": "David Beckham",
+      "option_d": "Denis Law",
+      "correct": "George Best"
+    },
+    {
+      "number": 32,
+      "question": "George Best shares the record for most goals scored in one game for United with 6. Who does he share it with?",
+      "option_a": "Harold Halse",
+      "option_b": "Dimitar Berbatov",
+      "option_c": "Andy Cole",
+      "option_d": "Ole Gunnar Solskjaer",
+      "correct": "Harold Halse"
+    },
+    {
+      "number": 33,
+      "question": "How many Champions League goals did David Beckham score for United?",
+      "option_a": 15,
+      "option_b": 10,
+      "option_c": 20,
+      "option_d": 5,
+      "correct": 15
+    },
+    {
+      "number": 34,
+      "question": "Manchester United beat Real Madrid on the way to winning the 1968 European Cup. What was the score in the away leg?",
+      "option_a": "2-1",
+      "option_b": "3-3",
+      "option_c": "1-0",
+      "option_d": "4-1",
+      "correct": "3-3"
+    },
+    {
+      "number": 35,
+      "question": "Dwight Yorke led United's goalscoring charge in the league in the 1998-99 season. How many goals did he score that season?",
+      "option_a": 17,
+      "option_b": 18,
+      "option_c": 19,
+      "option_d": 20,
+      "correct": 18
+    },
+    {
+      "number": 36,
+      "question": "Who scored the only goal as United beat Palmeiras 1-0 to win the 1999 Intercontinental Cup?",
+      "option_a": "Paul Scholes",
+      "option_b": "Dwight Yorke",
+      "option_c": "Nicky Butt",
+      "option_d": "Roy Keane",
+      "correct": "Roy Keane"
+    },
+    {
+      "number": 37,
+      "question": "United beat which Ecuadorian team 1-0 to win the FIFA Club World Cup in 2008",
+      "option_a": "LDU Quito",
+      "option_b": "Aucas",
+      "option_c": "Olmedo",
+      "option_d": "Guayaquil City",
+      "correct": "LDU Quito"
+    },
+    {
+      "number": 38,
+      "question": "Against which team did Wayne Rooney score his 100th goal for United?",
+      "option_a": "Wigan Athletic",
+      "option_b": "Tottenham Hotspur",
+      "option_c": "Portsmouth",
+      "option_d": "Birmingham City",
+      "correct": "Wigan Athletic"
+    },
+    {
+      "number": 39,
+      "question": "Against which team did Ole Gunnar Solskjaer score his 100th goal for Manchester United?",
+      "option_a": "Zalaegerzeg",
+      "option_b": "Maccabi Haifa",
+      "option_c": "West Brom",
+      "option_d": "Leeds United",
+      "correct": "West Brom"
+    },
+    {
+      "number": 40,
+      "question": "Who is the youngest player to make an appearance for Manchester United?",
+      "option_a": "Angel Gomes",
+      "option_b": "Duncan Edwards",
+      "option_c": "David Gaskell",
+      "option_d": "Norman Whiteside",
+      "correct": "David Gaskell"
+    },
+    {
+      "number": 41,
+      "question": "Who is United's top foreign record goalscorer?",
+      "option_a": "Ruud Van Nistelrooy",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Cristiano Ronaldo",
+      "option_d": "Dwight Yorke",
+      "correct": "Ruud Van Nistelrooy"
+    },
+    {
+      "number": 42,
+      "question": "How many goals did Diego Forlan score for United?",
+      "option_a": 20,
+      "option_b": 17,
+      "option_c": 25,
+      "option_d": 12,
+      "correct": 17
+    },
+    {
+      "number": 43,
+      "question": "Manchester United signed Bryan Robson from which club?",
+      "option_a": "West Brom",
+      "option_b": "Birmingham City",
+      "option_c": "Aston Villa",
+      "option_d": "Wolves",
+      "correct": "West Brom"
+    },
+    {
+      "number": 44,
+      "question": "How many goals did Bryan Robson score for Manchester United?",
+      "option_a": 95,
+      "option_b": 100,
+      "option_c": 99,
+      "option_d": 82,
+      "correct": 99
+    },
+    {
+      "number": 45,
+      "question": "Which goalkeeper holds the record for most clean sheets at United?",
+      "option_a": "Alex Stepney",
+      "option_b": "Gary Bailey",
+      "option_c": "Peter Schmeichel",
+      "option_d": "Edwin Van Der Sar",
+      "correct": "Peter Schmeichel"
+    },
+    {
+      "number": 46,
+      "question": "Alex Büttner scored on his debut against which club?",
+      "option_a": "Bolton Wanderers",
+      "option_b": "West Brom",
+      "option_c": "Wigan Athletic",
+      "option_d": "Chelsea",
+      "correct": "Wigan Athletic"
+    },
+    {
+      "number": 47,
+      "question": "Ole Gunnar Solskjaer scored two goals as United won the Champions league in 1999. One against Bayern Munich and the other against _____?",
+      "option_a": "Barcelona",
+      "option_b": "Juventus",
+      "option_c": "Brondby",
+      "option_d": "Inter Milan",
+      "correct": "Brondby"
+    },
+    {
+      "number": 48,
+      "question": "Marcus Rashford scored two goals on his United debut. Who provided the assist for the 2nd goal?",
+      "option_a": "Guillermo Varela",
+      "option_b": "Juan Mata",
+      "option_c": "Jesse Lingard",
+      "option_d": "Joe Riley",
+      "correct": "Guillermo Varela"
+    },
+    {
+      "number": 49,
+      "question": "Including the qualifying round, who was Manchester United's leading scorer in the 1998/99 Champions League?",
+      "option_a": "Paul Scholes",
+      "option_b": "Dwight Yorke",
+      "option_c": "Ryan Giggs",
+      "option_d": "Andy Cole",
+      "correct": "Dwight Yorke"
+    },
+    {
+      "number": 50,
+      "question": "How many were scored by Gerard Pique on United's way to winning the 2007/08 Champions League?",
+      "option_a": 4,
+      "option_b": 0,
+      "option_c": 1,
+      "option_d": 2,
+      "correct": 2
+    },
+    {
+      "number": 51,
+      "question": "From which club did Manchester United sign Javier Hernandez?",
+      "option_a": "Necaxa",
+      "option_b": "Cruz Azul",
+      "option_c": "Chivas",
+      "option_d": "Club America",
+      "correct": "Chivas"
+    },
+    {
+      "number": 52,
+      "question": "From which club did Manchester United sign Lee Sharpe?",
+      "option_a": "Torquay United",
+      "option_b": "Bradford City",
+      "option_c": "Exeter City",
+      "option_d": "Southampton",
+      "correct": "Torquay United"
+    },
+    {
+      "number": 53,
+      "question": "Against what club did Mark Hughes get his first senior hat trick for United?",
+      "option_a": "Blackburn Rovers",
+      "option_b": "Aston Villa",
+      "option_c": "Chelsea",
+      "option_d": "Arsenal",
+      "correct": "Aston Villa"
+    },
+    {
+      "number": 54,
+      "question": "Sir Alex Ferguson's first club signing was Viv Anderson. Which club was be brought from?",
+      "option_a": "Leicester City",
+      "option_b": "Aston Villa",
+      "option_c": "Chelsea",
+      "option_d": "Arsenal",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 55,
+      "question": "Peter Schmeichel scored his only United goal against which Russian club?",
+      "option_a": "FC Lokomotiv Moscow",
+      "option_b": "Rotor Volgograd",
+      "option_c": "Arsenal Tula",
+      "option_d": "Ural Sverdlovsk Oblast",
+      "correct": "Rotor Volgograd"
+    },
+    {
+      "number": 56,
+      "question": "What do Cristiano Ronaldo, Eric Cantona, Andrei Kanchelskis, and Juan Sebastian Veron have in common?",
+      "option_a": "All scored on their debut for United",
+      "option_b": "All wore the number 7 shire whilst at United",
+      "option_c": "First players to play for United from their respective countries",
+      "option_d": "All sent off in a Manchester Derby",
+      "correct": "First players to play for United from their respective countries"
+    },
+    {
+      "number": 57,
+      "question": "Manchester United signed Karel Poborsky from which club?",
+      "option_a": "České Budějovice",
+      "option_b": "Viktoria Žižkov",
+      "option_c": "Sparta Prague",
+      "option_d": "Slavia Prague",
+      "correct": "Slavia Prague"
+    },
+    {
+      "number": 58,
+      "question": "Which Manchester United player was named English Footballer of the Year and PFA Player of the Year in 2000?",
+      "option_a": "Paul Scholes",
+      "option_b": "Dwight Yorke",
+      "option_c": "Roy Keane",
+      "option_d": "David Beckham",
+      "correct": "Roy Keane"
+    },
+    {
+      "number": 59,
+      "question": "How many Champions League goals did Ruud Van Nistelrooy score for Manchester United?",
+      "option_a": 36,
+      "option_b": 44,
+      "option_c": 41,
+      "option_d": 39,
+      "correct": 36
+    },
+    {
+      "number": 60,
+      "question": "How many Champions League goals did Paul Scholes score for Manchester United?",
+      "option_a": 15,
+      "option_b": 20,
+      "option_c": 25,
+      "option_d": 30,
+      "correct": 25
+    }
+  ]
+}

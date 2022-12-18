@@ -1,0 +1,427 @@
+{
+  "easy": [
+    {
+      "number": 1,
+      "question": "What year did United win the Treble?",
+      "option_a": 1968,
+      "option_b": 1992,
+      "option_c": 2008,
+      "option_d": 1999,
+      "correct": 1999
+    },
+    {
+      "number": 2,
+      "question": "Which of these players has not worn the No. 7 shirt for United?",
+      "option_a": "Wayne Rooney",
+      "option_b": "Eric Cantona",
+      "option_c": "Cristiano Ronaldo",
+      "option_d": "David Beckham",
+      "correct": "Wayne Rooney"
+    },
+    {
+      "number": 3,
+      "question": "Who is the most successful manager in United history?",
+      "option_a": "Matt Busby",
+      "option_b": "José Mourinho",
+      "option_c": "Sir Alex Ferguson",
+      "option_d": "Ron Atkinson",
+      "correct": "Sir Alex Ferguson"
+    },
+    {
+      "number": 4,
+      "question": "How many times have we won the First Division/Premier League?",
+      "option_a": 15,
+      "option_b": 23,
+      "option_c": 20,
+      "option_d": 11,
+      "correct": 20
+    },
+    {
+      "number": 5,
+      "question": "Who is our all-time record Goalscorer?",
+      "option_a": "Ruud Van Nistelrooy",
+      "option_b": "Ryan Giggs",
+      "option_c": "Paul Scholes",
+      "option_d": "Wayne Rooney",
+      "correct": "Wayne Rooney"
+    },
+    {
+      "number": 6,
+      "question": "How many times have we won the European Cup/Champions League?",
+      "option_a": 7,
+      "option_b": 3,
+      "option_c": 1,
+      "option_d": 8,
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "question": "Manchester United was originally formed as ______________?",
+      "option_a": "Newton Heath",
+      "option_b": "Dial Square",
+      "option_c": "Hotspur Football Club",
+      "option_d": "Sport-Club Juventus",
+      "correct": "Newton Heath"
+    },
+    {
+      "number": 8,
+      "question": "Manchester United beat ________ in the 1999 Champions League Final?",
+      "option_a": "Real Madrid",
+      "option_b": "Barcelona",
+      "option_c": "Juventus",
+      "option_d": "Bayern Munich",
+      "correct": "Bayern Munich"
+    },
+    {
+      "number": 9,
+      "question": "Which player kung fu kicked a Crystal Palace fan in January 1995?",
+      "option_a": "Mark Hughes",
+      "option_b": "Paul Ince",
+      "option_c": "Eric Cantona",
+      "option_d": "Denis Irwin",
+      "correct": "Eric Cantona"
+    },
+    {
+      "number": 10,
+      "question": "What was the final score in the 1999 Champtions League Final?",
+      "option_a": "1-0",
+      "option_b": "5-4",
+      "option_c": "3-1",
+      "option_d": "2-1",
+      "correct": "2-1"
+    },
+    {
+      "number": 11,
+      "question": "What club was Eric Cantona signed from?",
+      "option_a": "Leeds United",
+      "option_b": "Portsmouth",
+      "option_c": "Arsenal",
+      "option_d": "West Ham",
+      "correct": "Leeds United"
+    },
+    {
+      "number": 12,
+      "question": "Who is United's record Signing?",
+      "option_a": "Carlos Tevez",
+      "option_b": "Paul Pogba",
+      "option_c": "David Beckham",
+      "option_d": "Romelu Lukaku",
+      "correct": "Paul Pogba"
+    },
+    {
+      "number": 13,
+      "question": "In what year was the Munich air crash?",
+      "option_a": 1968,
+      "option_b": 1958,
+      "option_c": 1978,
+      "option_d": 1948,
+      "correct": 1958
+    },
+    {
+      "number": 14,
+      "question": "How many times have United won the FA Cup?",
+      "option_a": 3,
+      "option_b": 6,
+      "option_c": 12,
+      "option_d": 9,
+      "correct": 12
+    },
+    {
+      "number": 15,
+      "question": "Who scored the winning goal in the 1999 Champions League Final?",
+      "option_a": "Ryan Giggs",
+      "option_b": "Jesper Blomqvist",
+      "option_c": "Teddy Sheringham",
+      "option_d": "Ole Gunnar Solskjaer",
+      "correct": "Ole Gunnar Solskjaer"
+    },
+    {
+      "number": 16,
+      "question": "By what nickname were Manchester United known during the late 1950s?",
+      "option_a": "The Flying Babes",
+      "option_b": "The Wonder Babes",
+      "option_c": "The Busby Babes",
+      "option_d": "The Elder Babes",
+      "correct": "The Busby Babes"
+    },
+    {
+      "number": 17,
+      "question": "By what score did Manchester United beat Ipswich Town in 1995?",
+      "option_a": "3-1",
+      "option_b": "5-1",
+      "option_c": "9-0",
+      "option_d": "3-2",
+      "correct": "9-0"
+    },
+    {
+      "number": 18,
+      "question": "What is the name of Manchester United's home ground?",
+      "option_a": "Maine Road",
+      "option_b": "Old Trafford",
+      "option_c": "City of Manchester Stadium",
+      "option_d": "Anfield",
+      "correct": "Old Trafford"
+    },
+    {
+      "number": 19,
+      "question": "Which of these numbers did David Beckham NOT wear at United?",
+      "option_a": 24,
+      "option_b": 13,
+      "option_c": 7,
+      "option_d": 10,
+      "correct": 13
+    },
+    {
+      "number": 20,
+      "question": "Which team did Anthony Martial score his debut United goal?",
+      "option_a": "Manchester City",
+      "option_b": "Tottenham Hotspur",
+      "option_c": "Cardiff City",
+      "option_d": "Liverpool",
+      "correct": "Liverpool"
+    },
+    {
+      "number": 21,
+      "question": "How many goals did Wayne Rooney score on his United debut?",
+      "option_a": 0,
+      "option_b": 3,
+      "option_c": 2,
+      "option_d": 4,
+      "correct": 3
+    },
+    {
+      "number": 22,
+      "question": "Against which team did David Beckham score from the halfway line?",
+      "option_a": "Tottenham Hotspur",
+      "option_b": "Newcastle United",
+      "option_c": "Wimbledon",
+      "option_d": "Aston Villa",
+      "correct": "Wimbledon"
+    },
+    {
+      "number": 23,
+      "question": "What year did Alex Ferguson take over as Manager?",
+      "option_a": 1992,
+      "option_b": 1980,
+      "option_c": 1991,
+      "option_d": 1986,
+      "correct": 1986
+    },
+    {
+      "number": 24,
+      "question": "In what year were the club now known as Manchester United formed?",
+      "option_a": 1878,
+      "option_b": 1890,
+      "option_c": 1875,
+      "option_d": 1885,
+      "correct": 1878
+    },
+    {
+      "number": 25,
+      "question": "What was the final score of the European cup Final in 1968?",
+      "option_a": "3-1",
+      "option_b": "2-1",
+      "option_c": "4-1",
+      "option_d": "4-2",
+      "correct": "4-1"
+    },
+    {
+      "number": 26,
+      "question": "Who did Manchester United beat in the 2008 Champions League Final?",
+      "option_a": "Liverpool",
+      "option_b": "AC Milan",
+      "option_c": "Chelsea",
+      "option_d": "Barcelona",
+      "correct": "Chelsea"
+    },
+    {
+      "number": 27,
+      "question": "Who scored the winning goal in the 1999 FA Cup Semi-Final against Arsenal?",
+      "option_a": "David Beckham",
+      "option_b": "Phil Neville",
+      "option_c": "Roy Keane",
+      "option_d": "Ryan Giggs",
+      "correct": "Ryan Giggs"
+    },
+    {
+      "number": 28,
+      "question": "Which of these teams was not in our Champions League group in 1999?",
+      "option_a": "Barcelona",
+      "option_b": "AC Milan",
+      "option_c": "Brondby",
+      "option_d": "Bayern Munich",
+      "correct": "AC Milan"
+    },
+    {
+      "number": 29,
+      "question": "Which of these players has not been a captain at Manchester United?",
+      "option_a": "Roy Keane",
+      "option_b": "Jesper Blomqvist",
+      "option_c": "Peter Schmeichel",
+      "option_d": "Ashley Young",
+      "correct": "Jesper Blomqvist"
+    },
+    {
+      "number": 30,
+      "question": "Which player did not wear the number 20 shirt at United?",
+      "option_a": "Louis Saha",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Rafael Da Silva",
+      "option_d": "Robin Van Persie",
+      "correct": "Louis Saha"
+    },
+    {
+      "number": 31,
+      "question": "How many goals did Eric Cantona score on his return to the United side against Liverpool after an 8 month ban?",
+      "option_a": 2,
+      "option_b": 1,
+      "option_c": 3,
+      "option_d": 5,
+      "correct": 1
+    },
+    {
+      "number": 32,
+      "question": "Marcus Rashord scored his first United penalty against which European club to complete a stunning comeback in the Champions League?",
+      "option_a": "AC Milan",
+      "option_b": "Real Madrid",
+      "option_c": "Paris Saint Germain",
+      "option_d": "Liverpool",
+      "correct": "Paris Saint Germain"
+    },
+    {
+      "number": 33,
+      "question": "Marcus Rashford scored two goals on his Premiership debut against which club?",
+      "option_a": "Tottenham Hotspur",
+      "option_b": "Manchester City",
+      "option_c": "Leicester City",
+      "option_d": "Arsenal",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 34,
+      "question": "Which team did Manchester United beat in the 2017 Europa League Final?",
+      "option_a": "Lyon",
+      "option_b": "Celta Vigo",
+      "option_c": "Anderlecht",
+      "option_d": "Ajax",
+      "correct": "Ajax"
+    },
+    {
+      "number": 35,
+      "question": "Which player scored the final penalty in the 2008 Champions League Final?",
+      "option_a": "Anderson",
+      "option_b": "Owen Hargreaves",
+      "option_c": "Ryan Giggs",
+      "option_d": "Cristiano Ronaldo",
+      "correct": "Ryan Giggs"
+    },
+    {
+      "number": 36,
+      "question": "Which team did United pip to the 1998-99 Premier League title?",
+      "option_a": "Liverpool",
+      "option_b": "Arsenal",
+      "option_c": "Chelsea",
+      "option_d": "Aston Villa",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 37,
+      "question": "Which player did NOT score on their United debut?",
+      "option_a": "Ruud Van Nistelrooy",
+      "option_b": "Louis Saha",
+      "option_c": "Ole Gunnar Solskjaer",
+      "option_d": "Dwight Yorke",
+      "correct": "Dwight Yorke"
+    },
+    {
+      "number": 38,
+      "question": "Which of these numbers has Marcus Rashford NOT worn since joining the first team?",
+      "option_a": 7,
+      "option_b": 10,
+      "option_c": 19,
+      "option_d": 39,
+      "correct": 7
+    },
+    {
+      "number": 39,
+      "question": "Manchester United's mascot is known as _____ The Red?",
+      "option_a": "Fred",
+      "option_b": "Alex",
+      "option_c": "Paul",
+      "option_d": "Norman",
+      "correct": "Fred"
+    },
+    {
+      "number": 40,
+      "question": "What was the shirt most often worn by George Best during his career at Manchester United?",
+      "option_a": 8,
+      "option_b": 10,
+      "option_c": 7,
+      "option_d": 11,
+      "correct": 7
+    },
+    {
+      "number": 41,
+      "question": "Who was manager of Manchester United between from 1946 to 1969?",
+      "option_a": "Sir Matt Busby",
+      "option_b": "Sir Alex Ferguson",
+      "option_c": "Jose Mourinho",
+      "option_d": "Ron Atkinson",
+      "correct": "Sir Matt Busby"
+    },
+    {
+      "number": 42,
+      "question": "Who scored United's goal in the Champions League Final in 2008?",
+      "option_a": "Wayne Rooney",
+      "option_b": "Carlos Tevez",
+      "option_c": "Michael Carrick",
+      "option_d": "Cristiano Ronaldo",
+      "correct": "Cristiano Ronaldo"
+    },
+    {
+      "number": 43,
+      "question": "The date was 28th August 2011 and the final result was 8-2. Wayne Rooney scored his 6th hat-trick for club. Which team was Manchester United playing against?",
+      "option_a": "Liverpool",
+      "option_b": "Arsenal",
+      "option_c": "Tottenham Hotspur",
+      "option_d": "West Ham United",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 44,
+      "question": "Alex Ferguson is known for his bad temper. In 2003 he kicked a boot, which hit a player and cut him above his eye. The cut required stitches. Who was the player?",
+      "option_a": "David Beckham",
+      "option_b": "Diego Forlan",
+      "option_c": "Wayne Rooney",
+      "option_d": "Ruud Van Nistelrooy",
+      "correct": "David Beckham"
+    },
+    {
+      "number": 45,
+      "question": "Which of these players did not play for the 1992 FA Cup Youth team?",
+      "option_a": "David Beckham",
+      "option_b": "Gary Neville",
+      "option_c": "Nicky Butt",
+      "option_d": "Roy Keane",
+      "correct": "Roy Keane"
+    },
+    {
+      "number": 46,
+      "question": "A statue called 'The United Trinity' stands outside Old Trafford, featuring, Denis Law, George best and which other player?",
+      "option_a": "Bobby Charlton",
+      "option_b": "Brian Kidd",
+      "option_c": "Nobby Stiles",
+      "option_d": "Bill Foulkes",
+      "correct": "Bobby Charlton"
+    },
+    {
+      "number": 47,
+      "question": "Manchester United's record Champions League win came in 2007 against Roma. What was the score?",
+      "option_a": "8-2",
+      "option_b": "9-0",
+      "option_c": "6-3",
+      "option_d": "7-1",
+      "correct": "7-1"
+    }
+  ]
+}
