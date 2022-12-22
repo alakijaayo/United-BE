@@ -66,11 +66,11 @@
     {
       "number": 8,
       "question": "United's record win in the FA Cup is an 8-0 win over Yeovil Town. What year was that?",
-      "option_a": 1949,
-      "option_b": 1956,
-      "option_c": 1963,
-      "option_d": 1967,
-      "correct": 1949
+      "option_a": "1949",
+      "option_b": "1956",
+      "option_c": "1963",
+      "option_d": "1967",
+      "correct": "1949"
     },
     {
       "number": 9,
@@ -93,20 +93,20 @@
     {
       "number": 11,
       "question": "In the 3 seasons he was at Manchester United, how many goals did Jesper Blomqvist score?",
-      "option_a": 1,
-      "option_b": 2,
-      "option_c": 3,
-      "option_d": 0,
-      "correct": 1
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "0",
+      "correct": "1"
     },
     {
       "number": 12,
       "question": "There have only been nine transfers between Manchester United and their heated rivals Liverpool. When was the last time a transfer bwteeen these two clubs happened?",
-      "option_a": 1929,
-      "option_b": 1964,
-      "option_c": 1954,
-      "option_d": 1938,
-      "correct": 1964
+      "option_a": "1929",
+      "option_b": "1964",
+      "option_c": "1954",
+      "option_d": "1938",
+      "correct": "1964"
     },
     {
       "number": 13,
@@ -129,11 +129,11 @@
     {
       "number": 15,
       "question": "What was the first ever number worn by Eric Cantona for Manchester United?",
-      "option_a": 7,
-      "option_b": 10,
-      "option_c": 12,
-      "option_d": 14,
-      "correct": 12
+      "option_a": "7",
+      "option_b": "10",
+      "option_c": "12",
+      "option_d": "14",
+      "correct": "12"
     },
     {
       "number": 16,
@@ -210,11 +210,11 @@
     {
       "number": 24,
       "question": "Denis Law has enjoyed a number of hat-tricks as a Manchester United player. Against how many different teams did he score a hat-trick?",
-      "option_a": 15,
-      "option_b": 16,
-      "option_c": 17,
-      "option_d": 18,
-      "correct": 18
+      "option_a": "15",
+      "option_b": "16",
+      "option_c": "17",
+      "option_d": "18",
+      "correct": "18"
     },
     {
       "number": 25,
@@ -237,11 +237,11 @@
     {
       "number": 27,
       "question": "Of Wayne Rooney's 34 Champions League goals for Manchester united, how many were scored against Italian clubs?",
-      "option_a": 5,
-      "option_b": 8,
-      "option_c": 3,
-      "option_d": 10,
-      "correct": 10
+      "option_a": "5",
+      "option_b": "8",
+      "option_c": "3",
+      "option_d": "10",
+      "correct": "10"
     },
     {
       "number": 28,
@@ -255,11 +255,11 @@
     {
       "number": 29,
       "question": "United have won the Charity Shield 21 times. How many times have they shared it?",
-      "option_a": 0,
-      "option_b": 2,
-      "option_c": 4,
-      "option_d": 6,
-      "correct": 4
+      "option_a": "0",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "4"
     },
     {
       "number": 30,
@@ -516,11 +516,11 @@
     {
       "number": 58,
       "question": "Dimitar Berbatov scored a hat-trick against Liverpool in 2010. Before this match the last hat-trick to be scored in a match between the two teams was in ____?",
-      "option_a": 1998,
-      "option_b": 1970,
-      "option_c": 1946,
-      "option_d": 1967,
-      "correct": 1946
+      "option_a": "1946",
+      "option_b": "1967",
+      "option_c": "1970",
+      "option_d": "1998",
+      "correct": "1946"
     },
     {
       "number": 59,

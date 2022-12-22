@@ -1,25 +1,39 @@
 package UnitedBE.UnitedBE.Controller;
 
+import java.io.IOException;
+import java.util.ArrayList;
+
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.fasterxml.jackson.core.exc.StreamReadException;
+import com.fasterxml.jackson.databind.DatabindException;
+
+import UnitedBE.UnitedBE.Client.Questions;
+
+
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 public class UnitedController {
+  ArrayList<Integer> myNumbers = new ArrayList<Integer>();
+
+  @Autowired
+  Questions question;
 
   @GetMapping("/easy")
-  public String test() {
-    return "Hello World";
+  public Object easyQuestion() throws StreamReadException, DatabindException, IOException {
+    return question.levelQuestion("easy");
   }
 
   @GetMapping("/medium")
-  public String testing() {
-    return "Hello World";
+  public Object mediumQuestion() throws StreamReadException, DatabindException, IOException {
+    return question.levelQuestion("medium");
   }
 
   @GetMapping("/hard")
-  public String tester() {
-    return "Hello World";
+  public Object hardQuestion() throws StreamReadException, DatabindException, IOException {
+    return question.levelQuestion("hard");
   }
 }

@@ -3,11 +3,11 @@
     {
       "number": 1,
       "question": "What year did United win the Treble?",
-      "option_a": 1968,
-      "option_b": 1992,
-      "option_c": 2008,
-      "option_d": 1999,
-      "correct": 1999
+      "option_a": "1968",
+      "option_b": "1992",
+      "option_c": "2008",
+      "option_d": "1999",
+      "correct": "1999"
     },
     {
       "number": 2,
@@ -30,11 +30,11 @@
     {
       "number": 4,
       "question": "How many times have we won the First Division/Premier League?",
-      "option_a": 15,
-      "option_b": 23,
-      "option_c": 20,
-      "option_d": 11,
-      "correct": 20
+      "option_a": "15",
+      "option_b": "23",
+      "option_c": "20",
+      "option_d": "11",
+      "correct": "20"
     },
     {
       "number": 5,
@@ -48,11 +48,11 @@
     {
       "number": 6,
       "question": "How many times have we won the European Cup/Champions League?",
-      "option_a": 7,
-      "option_b": 3,
-      "option_c": 1,
-      "option_d": 8,
-      "correct": 3
+      "option_a": "7",
+      "option_b": "3",
+      "option_c": "1",
+      "option_d": "8",
+      "correct": "3"
     },
     {
       "number": 7,
@@ -111,20 +111,20 @@
     {
       "number": 13,
       "question": "In what year was the Munich air crash?",
-      "option_a": 1968,
-      "option_b": 1958,
-      "option_c": 1978,
-      "option_d": 1948,
-      "correct": 1958
+      "option_a": "1968",
+      "option_b": "1958",
+      "option_c": "1978",
+      "option_d": "1948",
+      "correct": "1958"
     },
     {
       "number": 14,
       "question": "How many times have United won the FA Cup?",
-      "option_a": 3,
-      "option_b": 6,
-      "option_c": 12,
-      "option_d": 9,
-      "correct": 12
+      "option_a": "3",
+      "option_b": "6",
+      "option_c": "12",
+      "option_d": "9",
+      "correct": "12"
     },
     {
       "number": 15,
@@ -165,11 +165,11 @@
     {
       "number": 19,
       "question": "Which of these numbers did David Beckham NOT wear at United?",
-      "option_a": 24,
-      "option_b": 13,
-      "option_c": 7,
-      "option_d": 10,
-      "correct": 13
+      "option_a": "24",
+      "option_b": "13",
+      "option_c": "7",
+      "option_d": "10",
+      "correct": "13"
     },
     {
       "number": 20,
@@ -183,11 +183,11 @@
     {
       "number": 21,
       "question": "How many goals did Wayne Rooney score on his United debut?",
-      "option_a": 0,
-      "option_b": 3,
-      "option_c": 2,
-      "option_d": 4,
-      "correct": 3
+      "option_a": "0",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "3"
     },
     {
       "number": 22,
@@ -201,20 +201,20 @@
     {
       "number": 23,
       "question": "What year did Alex Ferguson take over as Manager?",
-      "option_a": 1992,
-      "option_b": 1980,
-      "option_c": 1991,
-      "option_d": 1986,
-      "correct": 1986
+      "option_a": "1992",
+      "option_b": "1980",
+      "option_c": "1991",
+      "option_d": "1986",
+      "correct": "1986"
     },
     {
       "number": 24,
       "question": "In what year were the club now known as Manchester United formed?",
-      "option_a": 1878,
-      "option_b": 1890,
-      "option_c": 1875,
-      "option_d": 1885,
-      "correct": 1878
+      "option_a": "1878",
+      "option_b": "1890",
+      "option_c": "1875",
+      "option_d": "1885",
+      "correct": "1878"
     },
     {
       "number": 25,
@@ -273,11 +273,11 @@
     {
       "number": 31,
       "question": "How many goals did Eric Cantona score on his return to the United side against Liverpool after an 8 month ban?",
-      "option_a": 2,
-      "option_b": 1,
-      "option_c": 3,
-      "option_d": 5,
-      "correct": 1
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "3",
+      "option_d": "5",
+      "correct": "1"
     },
     {
       "number": 32,
@@ -336,11 +336,11 @@
     {
       "number": 38,
       "question": "Which of these numbers has Marcus Rashford NOT worn since joining the first team?",
-      "option_a": 7,
-      "option_b": 10,
-      "option_c": 19,
-      "option_d": 39,
-      "correct": 7
+      "option_a": "7",
+      "option_b": "10",
+      "option_c": "19",
+      "option_d": "39",
+      "correct": "7"
     },
     {
       "number": 39,
@@ -354,11 +354,11 @@
     {
       "number": 40,
       "question": "What was the shirt most often worn by George Best during his career at Manchester United?",
-      "option_a": 8,
-      "option_b": 10,
-      "option_c": 7,
-      "option_d": 11,
-      "correct": 7
+      "option_a": "8",
+      "option_b": "10",
+      "option_c": "7",
+      "option_d": "11",
+      "correct": "7"
     },
     {
       "number": 41,
