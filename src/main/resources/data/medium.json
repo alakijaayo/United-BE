@@ -539,6 +539,114 @@
       "option_c": "25",
       "option_d": "30",
       "correct": "25"
+    },
+    {
+      "number": 61,
+      "question": "Where did United sign Bryan Robson from?",
+      "option_a": "Sunderland",
+      "option_b": "West Bromwich Albion",
+      "option_c": "Newcastle United",
+      "option_d": "Middlesborough",
+      "correct": "west Bromwich Albion"
+    },
+    {
+      "number": 64,
+      "question": "Henning Berg was signed for how much when he joined Manchester United?",
+      "option_a": "£3.5 million",
+      "option_b": "£4.6 million",
+      "option_c": "£5 million",
+      "option_d": "£7.5 million",
+      "correct": "£5 million"
+    },
+    {
+      "number": 65,
+      "question": "1983: United won the FA Cup again this year, but who did they play in the final?",
+      "option_a": "Brighton & Hove Albion",
+      "option_b": "Newcastle United",
+      "option_c": "Chelsea",
+      "option_d": "Queens Park Rangers",
+      "correct": "Brighton & Hove Albion"
+    },
+    {
+      "number": 66,
+      "question": "1985: Who scored the winning goal in the FA Cup Final against Everton?",
+      "option_a": "Bryan Robson",
+      "option_b": "Mark Hughes",
+      "option_c": "Norman Whiteside",
+      "option_d": "Frank Stapleton",
+      "correct": "Norman Whiteside"
+    },
+    {
+      "number": 67,
+      "question": "1988: In his first season for United, how many goals did Brian McClair score?",
+      "option_a": "30",
+      "option_b": "31",
+      "option_c": "32",
+      "option_d": "33",
+      "correct": "31"
+    },
+    {
+      "number": 68,
+      "question": "From which coastal club was Lee Sharpe signed from?",
+      "option_a": "Plymouth Argyle",
+      "option_b": "Torquay",
+      "option_c": "Brighton & Hove Albion",
+      "option_d": "Blackpool",
+      "correct": "Torquay"
+    },
+    {
+      "number": 69,
+      "question": "From which Midlands club was Dwight Yorke signed?",
+      "option_a": "Birmingham City",
+      "option_b": "Aston Villa",
+      "option_c": "West Bromwich Albion",
+      "option_d": "Coventry City",
+      "correct": "Aston Villa"
+    },
+    {
+      "number": 70,
+      "question": "Which player won the Player of the Year for the 2020–21 United Womens team?",
+      "option_a": "Ona Batlle",
+      "option_b": "Katie Zelem",
+      "option_c": "Hayley Ladd",
+      "option_d": "Mary Earps",
+      "correct": "Ona Batlle"
+    },
+    {
+      "number": 71,
+      "question": "Who won the Sir Matt Busby Player of the Year award for the 2000/01 season?",
+      "option_a": "Nicky Butt",
+      "option_b": "Denis Irwin",
+      "option_c": "Teddy Sheringham",
+      "option_d": "Andy Cole",
+      "correct": "Teddy Sheringham"
+    },
+    {
+      "number": 72,
+      "question": "Who was the first player to win the Sir Matt Busby Player of the Year award from outside Europe?",
+      "option_a": "Antonio Valencia",
+      "option_b": "Javier Hernandez",
+      "option_c": "Kleberson",
+      "option_d": "Gabriel Heinze",
+      "correct": "Gabriel Heinze"
+    },
+    {
+      "number": 73,
+      "question": "Which team was not in United's Group in the 1999/2000 Group Stage for the UEFA Champions League?",
+      "option_a": "Olympiacos",
+      "option_b": "Fiorentina",
+      "option_c": "Bordeaux",
+      "option_d": "Valencia",
+      "correct": "Olympiacos"
+    },
+    {
+      "number": 74,
+      "question": "Which team knocked United's out of the 1999/2000 UEFA Champions League?",
+      "option_a": "Bayern Munich",
+      "option_b": " Porto",
+      "option_c": "Lazio",
+      "option_d": "Real Madrid",
+      "correct": "Real Madrid"
     }
   ]
 }

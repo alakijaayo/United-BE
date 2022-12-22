@@ -548,6 +548,87 @@
       "option_c": "George Best",
       "option_d": "Bill Foulkes",
       "correct": "Bill Foulkes"
+    },
+    {
+      "number": 62,
+      "question": "Denis Law was signed from which Italian Club?",
+      "option_a": "Reggina",
+      "option_b": "Empoli",
+      "option_c": "Sampdoria",
+      "option_d": "Torino",
+      "correct": "Torino"
+    },
+    {
+      "number": 63,
+      "question": "Ray Wilkins was signed from Chelsea in 1979 for how much?",
+      "option_a": "£825,000",
+      "option_b": "£875,000",
+      "option_c": "£925,000",
+      "option_d": "£985,000",
+      "correct": "£825,000"
+    },
+    {
+      "number": 64,
+      "question": "1965: United won their sixth league title this year, but by what means?",
+      "option_a": "Goal difference",
+      "option_b": "Goal average",
+      "option_c": "By ten points",
+      "option_d": "Goals scored",
+      "correct": "Goal average"
+    },
+    {
+      "number": 65,
+      "question": "1970: How many goals did George Best score in an FA Cup 5th round game, against Northampton Town on February 7th?",
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "6"
+    },
+    {
+      "number": 66,
+      "question": "Having controversially lost to Aston Villa in the 1957 FA Cup Final, League Champions Manchester United met the Cup Winners a few months later to play for the FA Charity Shield. What was the result?",
+      "option_a": "Manchester United 0 Aston Villa 0",
+      "option_b": "Manchester United 2 Aston Villa 1",
+      "option_c": "Manchester United 1 Aston Villa 2",
+      "option_d": "Manchester United 4 Aston Villa 0",
+      "correct": "Manchester United 4 Aston Villa 0"
+    },
+    {
+      "number": 67,
+      "question": "On 18th January, 1958, in the last League game the Busby Babes would play in front of their adoring supporters at Old Trafford, they beat Bolton Wanderers by what score?",
+      "option_a": "4-1",
+      "option_b": "5-4",
+      "option_c": "3-0",
+      "option_d": "7-2",
+      "correct": "7-2"
+    },
+    {
+      "number": 68,
+      "question": "On 25th January, 1958, in the last game the Busby Babes would play at Old Trafford, which team did United meet in the FA Cup fourth round?",
+      "option_a": "Ipswich Town",
+      "option_b": "Sheffield Wednesday",
+      "option_c": "Bournemouth",
+      "option_d": "Workington Town",
+      "correct": "Ipswich Town"
+    },
+    {
+      "number": 69,
+      "question": "Which team knocked Manchester United, the defending champions, out of the European Cup in the 1968/69 season of the trophy?",
+      "option_a": "Real Madrid",
+      "option_b": "Waterford",
+      "option_c": "Reipas Lahti",
+      "option_d": "AC Milan",
+      "correct": "AC Milan"
+    },
+    {
+      "number": 70,
+      "question": "Which Manchester United player was top scorer in the European Cup in the 1968/69 season of the trophy?",
+      "option_a": "Nobby Stiles",
+      "option_b": "George Best",
+      "option_c": "Denis Law",
+      "option_d": "Bobby Charlton",
+      "correct": "Denis Law"
     }
   ]
 }

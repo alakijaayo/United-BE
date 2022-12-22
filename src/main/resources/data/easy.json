@@ -57,11 +57,11 @@
     {
       "number": 7,
       "question": "Manchester United was originally formed as ______________?",
-      "option_a": "Newton Heath",
+      "option_a": "Newton Heath LYR",
       "option_b": "Dial Square",
       "option_c": "Hotspur Football Club",
       "option_d": "Sport-Club Juventus",
-      "correct": "Newton Heath"
+      "correct": "Newton Heath LYR"
     },
     {
       "number": 8,
@@ -422,6 +422,186 @@
       "option_c": "6-3",
       "option_d": "7-1",
       "correct": "7-1"
+    },
+    {
+      "number": 48,
+      "question": "As of December 2022, who is the current Manchester United Manager?",
+      "option_a": "Jose Mourinho",
+      "option_b": "Pep Guardiola",
+      "option_c": "Jurgen Klopp",
+      "option_d": "Erik Ten Hag",
+      "correct": "Erik Ten Hag"
+    },
+    {
+      "number": 49,
+      "question": "Which of these has not been a shirt sponsor?",
+      "option_a": "Sharp Electronics",
+      "option_b": "Etihad",
+      "option_c": "Vodafone",
+      "option_d": "AIG",
+      "correct": "Etihad"
+    },
+    {
+      "number": 50,
+      "question": "The club's current Womens football team was founded in which year?",
+      "option_a": "2018",
+      "option_b": "2019",
+      "option_c": "2020",
+      "option_d": "2021",
+      "correct": "2018"
+    },
+    {
+      "number": 51,
+      "question": "Following a 3-1 defeat in the opening game of the 1995-96 league season, which TV football pundit famously said of Manchester United, and Sir Alex Ferguson, that 'You win nothing with kids'?",
+      "option_a": "Gary Lineker",
+      "option_b": "Alan Hansen",
+      "option_c": "Andy Gray",
+      "option_d": "Jimmy Hill",
+      "correct": "Alan Hansen"
+    },
+    {
+      "number": 52,
+      "question": "Sir Alex Ferguson retired from management at the end of the 2012-13 season, after 27 years in charge of Manchester United. Which team did Manchester United face in his last game in charge?",
+      "option_a": "Wigan Athletic",
+      "option_b": "Stoke City",
+      "option_c": "Swansea City",
+      "option_d": "West Bromwich Albion",
+      "correct": "West Bromwich Albion"
+    },
+    {
+      "number": 52,
+      "question": "Perhaps Sir Alex Ferguson's greatest achievement at Manchester United was winning the treble of English Premiership, FA Cup and European Cup in 1999. Which of United's four recognised strikers did *NOT* score in either final, or the last day of the league season?",
+      "option_a": "Andy Cole",
+      "option_b": "Teddy Sheringham",
+      "option_c": "Dwight Yorke",
+      "option_d": "Ole Gunnar Solskjaer",
+      "correct": "Dwight Yorke"
+    },
+    {
+      "number": 53,
+      "question": "Sir Alex Ferguson led Manchester United to two UEFA Champions League finals in 2009 and 2011. Who did they lose to in both finals?",
+      "option_a": "AC Milan",
+      "option_b": "Real Madrid",
+      "option_c": "Juventus",
+      "option_d": "Barcelona",
+      "correct": "Barcelona"
+    },
+    {
+      "number": 54,
+      "question": "What was the final score in Sir Alex Ferguson's last Manchester United game in charge?",
+      "option_a": "3-1",
+      "option_b": "5-1",
+      "option_c": "5-5",
+      "option_d": "2-1",
+      "correct": "5-5"
+    },
+    {
+      "number": 55,
+      "question": "What was Bryan Robson's nickname?",
+      "option_a": "Captain Marvel",
+      "option_b": "Choccy",
+      "option_c": "Butch",
+      "option_d": "El Beatle",
+      "correct": "Captain Marvel"
+    },
+    {
+      "number": 56,
+      "question": "Who's nickname was 'El Beatle'?",
+      "option_a": "Bobby Charlton",
+      "option_b": "Denis Law",
+      "option_c": "George Best",
+      "option_d": "Nobby Stiles",
+      "correct": "George Best"
+    },
+    {
+      "number": 57,
+      "question": "I was known as 'The Great Dane'. Who am I?",
+      "option_a": "Peter Schmeichel",
+      "option_b": "Ronny Johnsen",
+      "option_c": "Nikki Jovanovic",
+      "option_d": "John Sivebaek",
+      "correct": "Peter Schmeichel"
+    },
+    {
+      "number": 58,
+      "question": "Which player admitted in his autobiography that he intended to hurt Alf-Inge Haland in a knee-high foul, which saw him sent off during a match against Manchester City in 2001?",
+      "option_a": "Eric Cantona",
+      "option_b": "Steve Bruce",
+      "option_c": "Ryan Giggs",
+      "option_d": "Roy Keane",
+      "correct": "Roy Keane"
+    },
+    {
+      "number": 59,
+      "question": "Which player failed to attend a drug test in 2003, receiving a large fine and an 8 month ban?",
+      "option_a": "Wayne Rooney",
+      "option_b": "Gary Neville",
+      "option_c": "Rio Ferdinand",
+      "option_d": "Paul Scholes",
+      "correct": "Rio Ferdinand"
+    },
+    {
+      "number": 60,
+      "question": "Which one of these describes the Manchester United badge?",
+      "option_a": "Blue and white with a yellow lion",
+      "option_b": "Red and white with a phoenix",
+      "option_c": "A castle turret with 2 wreaths",
+      "option_d": "Red and yellow. A devil holding a fork with a ship",
+      "correct": "Red and yellow. A devil holding a fork with a ship"
+    },
+    {
+      "number": 61,
+      "question": "Which Manchester United player became the first ever player to be crowned PFA young young player of the year in 1992?",
+      "option_a": "David Beckham",
+      "option_b": "Paul Scholes",
+      "option_c": "Robbie Savage",
+      "option_d": "Ryan Giggs",
+      "correct": "Ryan Giggs"
+    },
+    {
+      "number": 62,
+      "question": "As of December 2022, which England Womens European Championship winner wears the number 7 for United Womens?",
+      "option_a": "Alessia Russo",
+      "option_b": "Leah Galton",
+      "option_c": "Nikita Parris",
+      "option_d": "Ella Toone",
+      "correct": "Ella Toone"
+    },
+    {
+      "number": 63,
+      "question": "As of December 2022, who is the current captain of Uniteds Womens team?",
+      "option_a": "Alessia Russo",
+      "option_b": "Maya Le Tissier",
+      "option_c": "Katie Zelem",
+      "option_d": "Ella Toone",
+      "correct": "Katie Zelem"
+    },
+    {
+      "number": 64,
+      "question": "Who was the first player to win the Sir Matt Busby Player of the Year award in 3 consecutive years and the first Goalkeeper to win it?",
+      "option_a": "David De Gea",
+      "option_b": "Fabien Barthez",
+      "option_c": "Edwin Van Der Sar",
+      "option_d": "Peter Schmeichel",
+      "correct": "David De Gea"
+    },
+    {
+      "number": 65,
+      "question": "Who was the leading scorer for United on their way to winning the 2008 UEFA Champions League?",
+      "option_a": "Carlos Tevez",
+      "option_b": "Cristiano Ronaldo",
+      "option_c": "Wayne Rooney",
+      "option_d": "Paul Scholes",
+      "correct": "Cristiano Ronaldo"
+    },
+    {
+      "number": 66,
+      "question": "Who scored two goals, including the winner, as United won the EFL Cup by beating Southampton 3-2 in 2017?",
+      "option_a": "Anthony Martial",
+      "option_b": "Juan Mata",
+      "option_c": "Jesse Lingard",
+      "option_d": "Zlatan Ibrahimovic",
+      "correct": "Zlatan Ibrahimovic"
     }
   ]
 }
