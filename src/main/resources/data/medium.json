@@ -194,7 +194,7 @@
       "question": "Which of these United players retired with 129 caps for their country?",
       "option_a": "David Beckham",
       "option_b": "Peter Schmeichel",
-      "option_c": "Edwin Van Der Saar",
+      "option_c": "Edwin Van Der Sar",
       "option_d": "Wayne Rooney",
       "correct": "Peter Schmeichel"
     },
@@ -546,7 +546,7 @@
       "option_a": "Sunderland",
       "option_b": "West Bromwich Albion",
       "option_c": "Newcastle United",
-      "option_d": "Middlesborough",
+      "option_d": "Middlesbrough",
       "correct": "west Bromwich Albion"
     },
     {
@@ -587,12 +587,12 @@
     },
     {
       "number": 68,
-      "question": "From which coastal club was Lee Sharpe signed from?",
-      "option_a": "Plymouth Argyle",
-      "option_b": "Torquay",
-      "option_c": "Brighton & Hove Albion",
-      "option_d": "Blackpool",
-      "correct": "Torquay"
+      "question": "Which player scored more goals for United?",
+      "option_a": "Nemanja Vidic",
+      "option_b": "Michael Carrick",
+      "option_c": "Antonio Valencia",
+      "option_d": "Marouane Fellaini",
+      "correct": "Antonio Valencia"
     },
     {
       "number": 69,
@@ -647,6 +647,240 @@
       "option_c": "Lazio",
       "option_d": "Real Madrid",
       "correct": "Real Madrid"
+    },
+    {
+      "number": 75,
+      "question": "Paul Ince made his Manchester United debut against which club?",
+      "option_a": "Millwall",
+      "option_b": "Manchester City",
+      "option_c": "Crystal Palace",
+      "option_d": "West Ham United",
+      "correct": "Millwall"
+    },
+    {
+      "number": 76,
+      "question": "Eric Cantona was bought from Leeds United in 1992, but which player did Leeds United Chariman Bill Fotherby initially call Martin Edwards to enquire about?",
+      "option_a": "Paul Ince",
+      "option_b": "Bryan Robson",
+      "option_c": "Denis Irwin",
+      "option_d": "Gary Pallister",
+      "correct": "Denis Irwin"
+    },
+    {
+      "number": 77,
+      "question": "How many goals did Eric Cantona score for Manchester United?",
+      "option_a": "62",
+      "option_b": "82",
+      "option_c": "102",
+      "option_d": "122",
+      "correct": "82"
+    },
+    {
+      "number": 78,
+      "question": "Who scored the opening goal in Sir Alex Ferguson's final game in charge?",
+      "option_a": "Shinji Kagawa",
+      "option_b": "Alexander Büttner",
+      "option_c": "Javier Hernandez",
+      "option_d": "Robin Van Persie",
+      "correct": "Shinji Kagawa"
+    },
+    {
+      "number": 79,
+      "question": "Manchester United won the 1992/93 Premier League season but failed to win their first 3 games. Who did they win their first game against?",
+      "option_a": "Sheffield United",
+      "option_b": "Everton",
+      "option_c": "Ipswich Town",
+      "option_d": "Southampton",
+      "correct": "Southampton"
+    },
+    {
+      "number": 80,
+      "question": "On the way to winning the 1993/94 Premier League, United lost only two of their first 30 matches, both to the same team and scoreline. Which team was it and what was the scoreline?",
+      "option_a": "Liverpool (2-0)",
+      "option_b": "Arsenal (2-1)",
+      "option_c": "Chelsea (1-0)",
+      "option_d": "Aston Villa (3-1)",
+      "correct": "Chelsea (1-0)"
+    },
+    {
+      "number": 81,
+      "question": "In 127 appearances for Manchester United, Jaap Stam only scored one goal. Against which team did he score?",
+      "option_a": "West Ham United",
+      "option_b": "Charlton Athletic",
+      "option_c": "Leicester City",
+      "option_d": "Manchester City",
+      "correct": "Leicester City"
+    },
+    {
+      "number": 82,
+      "question": "Which player scored more goals for United?",
+      "option_a": "Gary Neville",
+      "option_b": "David May",
+      "option_c": "Phil Neville",
+      "option_d": "Ronny Johnsen",
+      "correct": "Ronny Johnsen"
+    },
+    {
+      "number": 83,
+      "question": "Edwin Van Der Sar played how many times for Manchester United?",
+      "option_a": "266",
+      "option_b": "286",
+      "option_c": "306",
+      "option_d": "326",
+      "correct": "266"
+    },
+    {
+      "number": 84,
+      "question": "Odion Ighalo scored how many goals for Manchester United whilst on loan?",
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "5"
+    },
+    {
+      "number": 85,
+      "question": "Henrik Larsson scored how many goals for Manchester United whilst on loan?",
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "3"
+    },
+    {
+      "number": 86,
+      "question": "Who score the winner Manchester United in their 1992 League Cup Final against Nottingham Forest?",
+      "option_a": "Mark Hughes",
+      "option_b": "Paul Ince",
+      "option_c": "Paul Parker",
+      "option_d": "Brian McClair",
+      "correct": "Brian McClair"
+    },
+    {
+      "number": 87,
+      "question": "Which team did Manchester United NOT play in the knockout stages on the way to the 2008/2009 Champions League Final?",
+      "option_a": "Lyon",
+      "option_b": "Inter Milan",
+      "option_c": "Porto",
+      "option_d": "Arsenal",
+      "correct": "Lyon"
+    },
+    {
+      "number": 88,
+      "question": "Who scored the extra time winner against Crystal Palace in the 2016 FA Cup Final?",
+      "option_a": "Juan Mata",
+      "option_b": "Anthony Martial",
+      "option_c": "Michael Carrick",
+      "option_d": "Jesse Lingard",
+      "correct": "Jesse Lingard"
+    },
+    {
+      "number": 89,
+      "question": "Which player scored two goals and won Man of the Match in the 3-0 win against Millwall in the 2004 FA Cup Final?",
+      "option_a": "Cristiano Ronaldo",
+      "option_b": "Ruud Van Nistelrooy",
+      "option_c": "Paul Scholes",
+      "option_d": "Ole Gunnar Solskjaer",
+      "correct": "Ruud Van Nistelrooy"
+    },
+    {
+      "number": 90,
+      "question": "As of 2023, how many players have won the World Cup whilst playing for Manchester United?",
+      "option_a": "5",
+      "option_b": "8",
+      "option_c": "10",
+      "option_d": "12",
+      "correct": "5"
+    },
+    {
+      "number": 91,
+      "question": "Which of these teams did Manchester United NOT play on their way to their 1999 FA Cup Final triumph?",
+      "option_a": "Middlesbrough",
+      "option_b": "Arsenal",
+      "option_c": "Leicester City",
+      "option_d": "Liverpool",
+      "correct": "Leicester City"
+    },
+    {
+      "number": 92,
+      "question": "Who scored the only goal in our 2-1 loss in the 2017 UEFA Super Cup final?",
+      "option_a": "Romelu Lukaku",
+      "option_b": "Jesse Lingard",
+      "option_c": "Paul Pogba",
+      "option_d": "Anthony Martial",
+      "correct": "Romelu Lukaku"
+    },
+    {
+      "number": 93,
+      "question": "Ruud Van Nistelrooy played for 5 seasons at Manchester United. How many times was he our leading top scorer  in all competitions during those seasons?",
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "4"
+    },
+    {
+      "number": 94,
+      "question": "Who was the leading top scorer in all competitions as United won the Premier League in the 1992/93 season?",
+      "option_a": "Brian McClair",
+      "option_b": "Mark Hughes",
+      "option_c": "Eric Cantona",
+      "option_d": "Andrei Kanchelskis",
+      "correct": "Mark Hughes"
+    },
+    {
+      "number": 95,
+      "question": "Who scored more goals for Manchester United?",
+      "option_a": "Clayton Blackmore",
+      "option_b": "Jesper Olsen",
+      "option_c": "Gordon Strachan",
+      "option_d": "Peter Davenport",
+      "correct": "Gordon Strachan"
+    },
+    {
+      "number": 96,
+      "question": "Manchester United lost to which team who eventually finished runners-up in the 2001/02 UEFA Champions League?",
+      "option_a": "AC Milan",
+      "option_b": "Bayer Leverkusen",
+      "option_c": "Real Madrid",
+      "option_d": "Barcelona",
+      "correct": "Bayer Leverkusen"
+    },
+    {
+      "number": 97,
+      "question": "Which team was NOT in Manchester United's group in the 2000 FIFA Club World Championship?",
+      "option_a": "Necaxa",
+      "option_b": "South Melbourne",
+      "option_c": "Vasco Da Gama",
+      "option_d": "Raja Casablanca",
+      "correct": "Raja Casablanca"
+    },
+    {
+      "number": 98,
+      "question": "Who scored two goals and won man of the match as Manchester United came from 2-0 down to beat Manchester City 3-2 in the 2011 FA Community Shield?",
+      "option_a": "Dimitar Berbatov",
+      "option_b": "Wayne Rooney",
+      "option_c": "Nani",
+      "option_d": "Anderson",
+      "correct": "Nani"
+    },
+    {
+      "number": 99,
+      "question": "Manchester United won the Premier League trophy in the 2007/08 season. But who came in second place that season?",
+      "option_a": "Arsenal",
+      "option_b": "Chelsea",
+      "option_c": "Liverpool",
+      "option_d": "Everton",
+      "correct": "Chelsea"
+    },
+    {
+      "number": 100,
+      "question": "Which player succeeded Steve Bruce as captain of Manchester United?",
+      "option_a": "Eric Cantona",
+      "option_b": "Roy Keane",
+      "option_c": "Gary Neville",
+      "option_d": "Martin Buchan",
+      "correct": "Eric Cantona"
     }
   ]
 }

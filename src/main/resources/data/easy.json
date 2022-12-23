@@ -408,11 +408,11 @@
     {
       "number": 46,
       "question": "A statue called 'The United Trinity' stands outside Old Trafford, featuring, Denis Law, George best and which other player?",
-      "option_a": "Bobby Charlton",
+      "option_a": "Sir Bobby Charlton",
       "option_b": "Brian Kidd",
       "option_c": "Nobby Stiles",
       "option_d": "Bill Foulkes",
-      "correct": "Bobby Charlton"
+      "correct": "Sir Bobby Charlton"
     },
     {
       "number": 47,
@@ -470,7 +470,7 @@
     },
     {
       "number": 52,
-      "question": "Perhaps Sir Alex Ferguson's greatest achievement at Manchester United was winning the treble of English Premiership, FA Cup and European Cup in 1999. Which of United's four recognised strikers did *NOT* score in either final, or the last day of the league season?",
+      "question": "Perhaps Sir Alex Ferguson's greatest achievement at Manchester United was winning the treble of English Premiership, FA Cup and European Cup in 1999. Which of United's four recognised strikers did NOT score in either final, or the last day of the league season?",
       "option_a": "Andy Cole",
       "option_b": "Teddy Sheringham",
       "option_c": "Dwight Yorke",
@@ -507,7 +507,7 @@
     {
       "number": 56,
       "question": "Who's nickname was 'El Beatle'?",
-      "option_a": "Bobby Charlton",
+      "option_a": "Sir Bobby Charlton",
       "option_b": "Denis Law",
       "option_c": "George Best",
       "option_d": "Nobby Stiles",
@@ -602,6 +602,312 @@
       "option_c": "Jesse Lingard",
       "option_d": "Zlatan Ibrahimovic",
       "correct": "Zlatan Ibrahimovic"
+    },
+    {
+      "number": 67,
+      "question": "Bruno Fernandes was signed from which Portuguese Club?",
+      "option_a": "Benfica",
+      "option_b": "Boavista",
+      "option_c": "Porto",
+      "option_d": "Sporting Lisbon",
+      "correct": "Sporting Lisbon"
+    },
+    {
+      "number": 68,
+      "question": "Against which team did Bruno Fernandes score his first Manchester United goal?",
+      "option_a": "Arsenal",
+      "option_b": "Chelsea",
+      "option_c": "Watford",
+      "option_d": "Tottenham Hotspur",
+      "correct": "Watford"
+    },
+    {
+      "number": 69,
+      "question": "Against which club did Antony make his debut and score his first goal for Manchester United?",
+      "option_a": "Chelsea",
+      "option_b": "Arsenal",
+      "option_c": "Liverpool",
+      "option_d": "Manchester City",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 70,
+      "question": "Robin Van Persie scored his first Manchester United goal against which club?",
+      "option_a": "Fulham",
+      "option_b": "Arsenal",
+      "option_c": "Everton",
+      "option_d": "Liverpool",
+      "correct": "Fulham"
+    },
+    {
+      "number": 71,
+      "question": "Which player got sent off in Sir Alex Ferguson's last UEFA Champions League game?",
+      "option_a": "Rio Ferdinand",
+      "option_b": "Michael Carrick",
+      "option_c": "Nani",
+      "option_d": "Wayne Rooney",
+      "correct": "Nani"
+    },
+    {
+      "number": 72,
+      "question": "Which manager took over after Sir Alex Ferguson?",
+      "option_a": "Jose Mourinho",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Erik Ten Hag",
+      "option_d": "David Moyes",
+      "correct": "David Moyes"
+    },
+    {
+      "number": 73,
+      "question": "Marcus Rashford made his debut for Manchester United in which year?",
+      "option_a": "2014",
+      "option_b": "2015",
+      "option_c": "2016",
+      "option_d": "2017",
+      "correct": "2016"
+    },
+    {
+      "number": 74,
+      "question": "David De Gea made his Manchester United debut in which year?",
+      "option_a": "2009",
+      "option_b": "2010",
+      "option_c": "2011",
+      "option_d": "2012",
+      "correct": "2011"
+    },
+    {
+      "number": 75,
+      "question": "Who missed the penalty which cost us the 2020/2021 UEFA Europa League trophy?",
+      "option_a": "Bruno Fernandes",
+      "option_b": "Marcus Rashford",
+      "option_c": "Edison Cavani",
+      "option_d": "David De Gea",
+      "correct": "David De Gea"
+    },
+    {
+      "number": 76,
+      "question": "Robin Van Persie was signed from which fellow Premier League club?",
+      "option_a": "Tottenham Hotspur",
+      "option_b": "Newcastle United",
+      "option_c": "Arsenal",
+      "option_d": "Liverpool",
+      "correct": "Arsenal"
+    },
+    {
+      "number": 77,
+      "question": "Juan Mata signed from which fellow Premier League club?",
+      "option_a": "Manchester City",
+      "option_b": "Chelsea",
+      "option_c": "Liverpool",
+      "option_d": "Tottenham Hotspur",
+      "correct": "Chelsea"
+    },
+    {
+      "number": 78,
+      "question": "Which one of these players did not come through the Manchester United Academy?",
+      "option_a": "Marcus Rashford",
+      "option_b": "Scott McTominay",
+      "option_c": "Danny Welbeck",
+      "option_d": "Anthony Martial",
+      "correct": "Anthony Martial"
+    },
+    {
+      "number": 79,
+      "question": "Who was United's top scorer in the 2021/2022 season?",
+      "option_a": "Marcus Rashford",
+      "option_b": "Bruno Fernandes",
+      "option_c": "Cristiano Ronaldo",
+      "option_d": "Jadon Sancho",
+      "correct": "Cristiano Ronaldo"
+    },
+    {
+      "number": 80,
+      "question": "Who was our leading top scorer in the 1998/99 treble winning season?",
+      "option_a": "Dwight Yorke",
+      "option_b": "Ole Gunnar Solskjaer",
+      "option_c": "Teddy Sheringham",
+      "option_d": "Andy Cole",
+      "correct": "Dwight Yorke"
+    },
+    {
+      "number": 81,
+      "question": "Who was the first Manager of the current Manchester United Womens team?",
+      "option_a": "Mark Skinner",
+      "option_b": "Phil Neville",
+      "option_c": "Casey Stoney",
+      "option_d": "Sarina Wiegman",
+      "correct": "Casey Stoney"
+    },
+    {
+      "number": 82,
+      "question": "Which one of these players is not an Academy graduate from the United Womens Academy?",
+      "option_a": "Katie Zelem",
+      "option_b": "Ella Toone",
+      "option_c": "Millie Turner",
+      "option_d": "Adriana Leon",
+      "correct": "Adriana Leon"
+    },
+    {
+      "number": 83,
+      "question": "Which of these Manchester United Womens players did NOT play for the English National team in their 2022 Womens European Championship win?",
+      "option_a": "Katie Zelem",
+      "option_b": "Ella Toone",
+      "option_c": "Alessia Russo",
+      "option_d": "Mary Earps",
+      "correct": "Katie Zelem"
+    },
+    {
+      "number": 84,
+      "question": "Who was our captain from 1982-1994?",
+      "option_a": "Steve Bruce",
+      "option_b": "Eric Cantona",
+      "option_c": "Bryan Robson",
+      "option_d": "Eric Cantona",
+      "correct": "Bryan Robson"
+    },
+    {
+      "number": 85,
+      "question": "United beat which team in the FA Cup Final 2-0 of the 1998/99 Treble winning season?",
+      "option_a": "Middlesbrough",
+      "option_b": "Newcastle United",
+      "option_c": "Southampton",
+      "option_d": "Wimbledon",
+      "correct": "Newcastle United"
+    },
+    {
+      "number": 86,
+      "question": "Who was captain of the team against Bayern Munich in the 1999 UEFA Champions League Final?",
+      "option_a": "Roy Keane",
+      "option_b": "David Beckham",
+      "option_c": "Denis Irwin",
+      "option_d": "Peter Schmeichel",
+      "correct": "Peter Schmeichel"
+    },
+    {
+      "number": 87,
+      "question": "Who scored the final goal at Old Trafford in Sir alex Ferguson's last game in charge there?",
+      "option_a": "Rio Ferdinand",
+      "option_b": "Javier Hernandez",
+      "option_c": "Ryan Giggs",
+      "option_d": "Robin Van Persie",
+      "correct": "Rio Ferdinand"
+    },
+    {
+      "number": 88,
+      "question": "Jaap Stam was brought in from which Dutch side?",
+      "option_a": "Ajax",
+      "option_b": "SBV Vitesse Arnhem",
+      "option_c": "PSV Eindhoven",
+      "option_d": "Feyenoord",
+      "correct": "PSV Eindhoven"
+    },
+    {
+      "number": 89,
+      "question": "Who scored the winning goal against Tottenham Hotspory to crown United Champions in the 1998/99 season?",
+      "option_a": "David Beckham",
+      "option_b": "Paul Scholes",
+      "option_c": "Nicky Butt",
+      "option_d": "Andy Cole",
+      "correct": "Andy Cole"
+    },
+    {
+      "number": 90,
+      "question": "Which player did Wayne Rooney surpass to become United's all-time leading scorer?",
+      "option_a": "Jack Rowley",
+      "option_b": "Sir Bobby Charlton",
+      "option_c": "Denis Law",
+      "option_d": "George Best",
+      "correct": "Sir Bobby Charlton"
+    },
+    {
+      "number": 91,
+      "question": "Which Brazilian twin brothers played for Manchester United?",
+      "option_a": "Fred & Antony",
+      "option_b": "Rafael & Fabio",
+      "option_c": "Casemiro & Telles",
+      "option_d": "Anderson & Possebon",
+      "correct": "Rafael & Fabio"
+    },
+    {
+      "number": 92,
+      "question": "In what year was Old Trafford built?",
+      "option_a": "1910",
+      "option_b": "1915",
+      "option_c": "1920",
+      "option_d": "1925",
+      "correct": "1910"
+    },
+    {
+      "number": 93,
+      "question": "The West Stand of Old Trafford is more famously known as what?",
+      "option_a": "Sir Bobby Charlton Stand",
+      "option_b": "Sir Alex Ferguson Stand",
+      "option_c": "Stretford End",
+      "option_d": "George Best Stand",
+      "correct": "Stretford End"
+    },
+    {
+      "number": 94,
+      "question": "Old Trafford is situated on what road?",
+      "option_a": "Sir Bobby Charlton Way",
+      "option_b": "Sir Matt Busby Way",
+      "option_c": "Sir Alex Ferguson Way",
+      "option_d": "Denis Law Way",
+      "correct": "Sir Matt Busby Way"
+    },
+    {
+      "number": 95,
+      "question": "In Manchester United's 2008 Champions League final victory over Chelsea on penalties, who was the only Red Devils player to miss a spot-kick?",
+      "option_a": "Owen Hargreavwes",
+      "option_b": "Anderson",
+      "option_c": "Cristiano Ronaldo",
+      "option_d": "Carlos Tevez",
+      "correct": "Cristiano Ronaldo"
+    },
+    {
+      "number": 96,
+      "question": "Which Manchester United manager was said by fans to be 'at the wheel'?",
+      "option_a": "Erik Ten Hag",
+      "option_b": "Michael Carrick",
+      "option_c": "David Moyes",
+      "option_d": "Ole Gunnar Solskjaer",
+      "correct": "Ole Gunnar Solskjaer"
+    },
+    {
+      "number": 97,
+      "question": "Who said: 'When the seagulls follow the trawler, it's because they think sardines will be thrown into the sea'?",
+      "option_a": "Peter Schmeichel",
+      "option_b": "Paul Ince",
+      "option_c": "Eric Cantona",
+      "option_d": "Gary Neville",
+      "correct": "Eric Cantona"
+    },
+    {
+      "number": 98,
+      "question": "What is the nickname of Old Trafford?",
+      "option_a": "The Theatre of Dreams",
+      "option_b": "The Wonderland of Dreams",
+      "option_c": "The Palace of Dreams",
+      "option_d": "The Home of Dreams",
+      "correct": "The Theatre of Dreams"
+    },
+    {
+      "number": 99,
+      "question": "Which player took the No. 7 jersey after Cristiano Ronaldo left?",
+      "option_a": "Antonio Valencia",
+      "option_b": "Michael Owen",
+      "option_c": "Angel Di Maria",
+      "option_d": "Jadon Sancho",
+      "correct": "Michael Owen"
+    },
+    {
+      "number": 100,
+      "question": "Which player holds the distinction of being Manchester United's longest-serving captain?",
+      "option_a": "Eric Cantona",
+      "option_b": "Wayne Rooney",
+      "option_c": "Bryan Robson",
+      "option_d": "Steve Bruce",
+      "correct": "Bryan Robson"
     }
   ]
 }

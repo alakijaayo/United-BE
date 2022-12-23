@@ -265,7 +265,7 @@
       "number": 30,
       "question": "Of United's top four record goalscorers, who scored the most in the FA Cup?",
       "option_a": "Wayne Rooney",
-      "option_b": "Bobby Charlton",
+      "option_b": "Sir Bobby Charlton",
       "option_c": "Denis Law",
       "option_d": "Jack Rowley",
       "correct": "Denis Law"
@@ -353,7 +353,7 @@
     },
     {
       "number": 40,
-      "question": "Bobby Charlton scored two goals in his debut against which club?",
+      "question": "Sir Bobby Charlton scored two goals in his debut against which club?",
       "option_a": "Charlton Athletic",
       "option_b": "Barnsley",
       "option_c": "Accrington Stanley",
@@ -380,7 +380,7 @@
     },
     {
       "number": 43,
-      "question": "Against which team did Bobby Charlton score the most goals against as a United player?",
+      "question": "Against which team did Sir Bobby Charlton score the most goals against as a United player?",
       "option_a": "Sheffield Wednesday",
       "option_b": "Blackpool",
       "option_c": "Tottenham Hotspur",
@@ -443,7 +443,7 @@
     },
     {
       "number": 50,
-      "question": "On their way to winning the 1990/91 European Cup Winners Cup, two United players scored 4 goals. Brian McClair was one, but who was the other?",
+      "question": "On their way to winning the 1990/91 European Cup Winners' Cup, two United players scored 4 goals. Brian McClair was one, but who was the other?",
       "option_a": "Mark Hughes",
       "option_b": "Clayton Blackmore",
       "option_c": "Lee Sharpe",
@@ -524,7 +524,7 @@
     },
     {
       "number": 59,
-      "question": "Bobby Charlton made his final league appearance for Manchester United in 1973, but his day was spoilt by a 1-0 defeat at which ground?",
+      "question": "Sir Bobby Charlton made his final league appearance for Manchester United in 1973, but his day was spoilt by a 1-0 defeat at which ground?",
       "option_a": "Maine Road",
       "option_b": "Villa Park",
       "option_c": "Highbury",
@@ -629,6 +629,204 @@
       "option_c": "Denis Law",
       "option_d": "Bobby Charlton",
       "correct": "Denis Law"
+    },
+    {
+      "number": 71,
+      "question": "The first transfer received for a player by Manchester United was for William Bryant in 1900. But how much was he sold for?",
+      "option_a": "£20",
+      "option_b": "£30",
+      "option_c": "£40",
+      "option_d": "£50",
+      "correct": "£50"
+    },
+    {
+      "number": 72,
+      "question": "The first transfer received for a player by Manchester United was for William Bryant in 1900. But who was he sold to?",
+      "option_a": "Birmingham City",
+      "option_b": "Blackpool",
+      "option_c": "Bolton Wanderers",
+      "option_d": "Blackburn Rovers",
+      "correct": "Blackburn Rovers"
+    },
+    {
+      "number": 73,
+      "question": "Kuszczak, Rafael, Vidic, Evans, Evra, Carrick, Fletcher, Park, Berbatov, Owen. Which player also started the 2010 League Cup Final?",
+      "option_a": "Paul Scholes",
+      "option_b": "Darren Gibson",
+      "option_c": "Ryan Giggs",
+      "option_d": "Antonio Valencia",
+      "correct": "Antonio Valencia"
+    },
+    {
+      "number": 74,
+      "question": "Who scored the only goal for United in the 1993 Charity Shield against Arsenal?",
+      "option_a": "Mark Hughes",
+      "option_b": "Andrei Kanchelskis",
+      "option_c": "Steve Bruce",
+      "option_d": "Bryan Robson",
+      "correct": "Mark Hughes"
+    },
+    {
+      "number": 75,
+      "question": "Bosnich, G Neville, Stam, Irwin, Beckham, Keane, Butt, Giggs, Scholes, Solskjaer. Which other player started the 1999 Intercontinental Cup Final?",
+      "option_a": "Danny Higginbotham",
+      "option_b": "Quinton Fortune",
+      "option_c": "Mikael Silvestre",
+      "option_d": "Phil Neville",
+      "correct": "Mikael Silvestre"
+    },
+    {
+      "number": 76,
+      "question": "Schmeichel, G Neville, Pallister, May, Irwin, Butt, Keane, Giggs, Scholes, Cantona. Which other player started the 1996 FA Charity Shield?",
+      "option_a": "Jordi Cryuff",
+      "option_b": "Brian McClair",
+      "option_c": "Karel Poborsky",
+      "option_d": "David Beckham",
+      "correct": "David Beckham"
+    },
+    {
+      "number": 77,
+      "question": "Schmeichel, Parker, Irwin, Bruce, Pallister, Kanchelskis, Ince, Giggs, McClair, Hughes. Who else played in the 1992 League Cup Final?",
+      "option_a": "Mike Phelan",
+      "option_b": "Lee Sharpe",
+      "option_c": "Bryan Robson",
+      "option_d": "Mark Robins",
+      "correct": "Mike Phelan"
+    },
+    {
+      "number": 78,
+      "question": "Van Der Sar, G Neville, Ferdinand, Vidic, Evra, Fletcher, Scholes, Nani, Rooney, Tevez. Who else played int the 2008 UEFA Super Cup loss?",
+      "option_a": "Darrem Gibson",
+      "option_b": "Rodrigo Possebon",
+      "option_c": "Park Ji-Sung",
+      "option_d": "Anderson",
+      "correct": "Anderson"
+    },
+    {
+      "number": 79,
+      "question": "De Gea, Valencia, Lindelöf, Smalling, Darmian, Herrera, Matic, Pogba, Lukaku, Lingard. Who else played in the 2017 UEFA Super Cup loss?",
+      "option_a": "Daley Blind",
+      "option_b": "Michael Carrick",
+      "option_c": "Henrikh Mkhitaryan",
+      "option_d": "Marouane Fellaini",
+      "correct": "Henrikh Mkhitaryan"
+    },
+    {
+      "number": 80,
+      "question": "Van Der Sar, G Neville, Ferdiand, Brown, Evra, Ronaldo, Scholes, Giggs, Rooney, Saha. Who else started the 5-1 win over Fulham on the opening day of the 2006/07 season?",
+      "option_a": "John O'Shea",
+      "option_b": "Park Ji-Sung",
+      "option_c": "Darren fletcher",
+      "option_d": "Ole Gunnar Solksjaer",
+      "correct": "John O'Shea"
+    },
+    {
+      "number": 89,
+      "question": "As of December 2022, Manchester United have broken their record transfer fee 32 times. How many of those players have been Scottish?",
+      "option_a": "6",
+      "option_b": "9",
+      "option_c": "12",
+      "option_d": "15",
+      "correct": "9"
+    },
+    {
+      "number": 90,
+      "question": "Against which team did Manchester United play their first League Cup game in 1960?",
+      "option_a": "Exeter City",
+      "option_b": "Walsall",
+      "option_c": "Darwen FC",
+      "option_d": "Southampton",
+      "correct": "Exeter City"
+    },
+    {
+      "number": 91,
+      "question": "De Gea, Rafael, Vidic, Jones, Evra, Cleverley, Carrick, Giggs, Welbeck, Van Persie. Who else started the 2-0 win over Wigan in the 2013 FA Community Shield?",
+      "option_a": "Antonio Valencia",
+      "option_b": "Adnan Januzaj",
+      "option_c": "Shinji Kagawa",
+      "option_d": "Wilfred Zaha",
+      "correct": "Wilfred Zaha"
+    },
+    {
+      "number": 92,
+      "question": "De Gea, Smalling, Ferdinand, Vidic, Evra, Nani, Carrick, Young, Rooney, Welcbeck. Who else started the 3-2 win over Manchester City in the 2011 FA Community Shield?",
+      "option_a": "Park Ji-Sung",
+      "option_b": "Tom Cleverley",
+      "option_c": "Phil Jones",
+      "option_d": "Anderson",
+      "correct": "Anderson"
+    },
+    {
+      "number": 93,
+      "question": "De Gea, Jones, Ferdinand, Vidic, Evra, Carrick, Scholes, Kagawa, Van Persie, Hernandez. Who else started Sir Alex Ferguson's last game in charge at Old Trafford in a 2-1 win against Swansea?",
+      "option_a": "Danny Welbeck",
+      "option_b": "Wayne Rooney",
+      "option_c": "Ryan Giggs",
+      "option_d": "Antonio Valencia",
+      "correct": "Danny Welbeck"
+    },
+    {
+      "number": 94,
+      "question": "Turner, Duxbury, Moran, Hogg, Albiston, McGrath, Moses, Barnes, Stapleton, Davenport. Who else started in Sir Alex Ferguson's first game in charge of Manchester United?",
+      "option_a": "Gary Walsh",
+      "option_b": "Tony Gill",
+      "option_c": "Bryan Robson",
+      "option_d": "Clayton Blackmore",
+      "correct": "Clayton Blackmore"
+    },
+    {
+      "number": 95,
+      "question": "Jordi Cruyff was signed from Barcelona in 1996. How much was the fee?",
+      "option_a": "£1.1 million",
+      "option_b": "£1.2 million",
+      "option_c": "£1.3 million",
+      "option_d": "£1.4 million",
+      "correct": "£1.4 million"
+    },
+    {
+      "number": 96,
+      "question": "Kleberson scored two goals in his Manchester United career. Against which two teams were his goals?",
+      "option_a": "Blackburn Rovers & Everton",
+      "option_b": "Charlton Athletic & Southampton",
+      "option_c": "Birmingham City & Middlesbrough",
+      "option_d": "Leeds United and Fulham",
+      "correct": "Blackburn Rovers & Everton"
+    },
+    {
+      "number": 97,
+      "question": "Schmeichel, P Neville, Bruce, Pallister, G Neville, Butt, Keane, Giggs, Cole, Cantona. Who else started the 2-2 draw against Liverpool in Cantona's return from his suspension from his kung-fu kick?",
+      "option_a": "Paul Scholes",
+      "option_b": "David Beckham",
+      "option_c": "Paul Parker",
+      "option_d": "Lee Sharpe",
+      "correct": "Lee Sharpe"
+    },
+    {
+      "number": 98,
+      "question": "Who scored the winner as Manchester United beat Liverpool in the 1977 FA Cup final?",
+      "option_a": "Jimmy Greenhoff",
+      "option_b": "Stuart Pearson",
+      "option_c": "Lou Macari",
+      "option_d": "Steve Coppell",
+      "correct": "Jimmy Greenhoff"
+    },
+    {
+      "number": 99,
+      "question": "How many goals did Manchester United score on their way to winning the 1968 European Cup?",
+      "option_a": "13",
+      "option_b": "14",
+      "option_c": "15",
+      "option_d": "16",
+      "correct": "16"
+    },
+    {
+      "number": 100,
+      "question": "How many goals did Manchester United score on their way to winning the 1991 European Cup Winners' Cup?",
+      "option_a": "17",
+      "option_b": "18",
+      "option_c": "19",
+      "option_d": "20",
+      "correct": "17"
     }
   ]
 }
