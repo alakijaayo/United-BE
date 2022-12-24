@@ -1,7 +1,6 @@
 package UnitedBE.UnitedBE.Controller;
 
 import java.io.IOException;
-import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -17,7 +16,6 @@ import UnitedBE.UnitedBE.Client.Questions;
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 public class UnitedController {
-  ArrayList<Integer> myNumbers = new ArrayList<Integer>();
 
   @Autowired
   Questions question;

@@ -721,7 +721,7 @@
       "correct": "John O'Shea"
     },
     {
-      "number": 89,
+      "number": 81,
       "question": "As of December 2022, Manchester United have broken their record transfer fee 32 times. How many of those players have been Scottish?",
       "option_a": "6",
       "option_b": "9",
@@ -730,7 +730,7 @@
       "correct": "9"
     },
     {
-      "number": 90,
+      "number": 82,
       "question": "Against which team did Manchester United play their first League Cup game in 1960?",
       "option_a": "Exeter City",
       "option_b": "Walsall",
@@ -739,7 +739,7 @@
       "correct": "Exeter City"
     },
     {
-      "number": 91,
+      "number": 83,
       "question": "De Gea, Rafael, Vidic, Jones, Evra, Cleverley, Carrick, Giggs, Welbeck, Van Persie. Who else started the 2-0 win over Wigan in the 2013 FA Community Shield?",
       "option_a": "Antonio Valencia",
       "option_b": "Adnan Januzaj",
@@ -748,7 +748,7 @@
       "correct": "Wilfred Zaha"
     },
     {
-      "number": 92,
+      "number": 84,
       "question": "De Gea, Smalling, Ferdinand, Vidic, Evra, Nani, Carrick, Young, Rooney, Welcbeck. Who else started the 3-2 win over Manchester City in the 2011 FA Community Shield?",
       "option_a": "Park Ji-Sung",
       "option_b": "Tom Cleverley",
@@ -757,7 +757,7 @@
       "correct": "Anderson"
     },
     {
-      "number": 93,
+      "number": 85,
       "question": "De Gea, Jones, Ferdinand, Vidic, Evra, Carrick, Scholes, Kagawa, Van Persie, Hernandez. Who else started Sir Alex Ferguson's last game in charge at Old Trafford in a 2-1 win against Swansea?",
       "option_a": "Danny Welbeck",
       "option_b": "Wayne Rooney",
@@ -766,7 +766,7 @@
       "correct": "Danny Welbeck"
     },
     {
-      "number": 94,
+      "number": 86,
       "question": "Turner, Duxbury, Moran, Hogg, Albiston, McGrath, Moses, Barnes, Stapleton, Davenport. Who else started in Sir Alex Ferguson's first game in charge of Manchester United?",
       "option_a": "Gary Walsh",
       "option_b": "Tony Gill",
@@ -775,7 +775,7 @@
       "correct": "Clayton Blackmore"
     },
     {
-      "number": 95,
+      "number": 87,
       "question": "Jordi Cruyff was signed from Barcelona in 1996. How much was the fee?",
       "option_a": "£1.1 million",
       "option_b": "£1.2 million",
@@ -784,7 +784,7 @@
       "correct": "£1.4 million"
     },
     {
-      "number": 96,
+      "number": 88,
       "question": "Kleberson scored two goals in his Manchester United career. Against which two teams were his goals?",
       "option_a": "Blackburn Rovers & Everton",
       "option_b": "Charlton Athletic & Southampton",
@@ -793,7 +793,7 @@
       "correct": "Blackburn Rovers & Everton"
     },
     {
-      "number": 97,
+      "number": 89,
       "question": "Schmeichel, P Neville, Bruce, Pallister, G Neville, Butt, Keane, Giggs, Cole, Cantona. Who else started the 2-2 draw against Liverpool in Cantona's return from his suspension from his kung-fu kick?",
       "option_a": "Paul Scholes",
       "option_b": "David Beckham",
@@ -802,7 +802,7 @@
       "correct": "Lee Sharpe"
     },
     {
-      "number": 98,
+      "number": 90,
       "question": "Who scored the winner as Manchester United beat Liverpool in the 1977 FA Cup final?",
       "option_a": "Jimmy Greenhoff",
       "option_b": "Stuart Pearson",
@@ -811,7 +811,7 @@
       "correct": "Jimmy Greenhoff"
     },
     {
-      "number": 99,
+      "number": 91,
       "question": "How many goals did Manchester United score on their way to winning the 1968 European Cup?",
       "option_a": "13",
       "option_b": "14",
@@ -820,13 +820,85 @@
       "correct": "16"
     },
     {
-      "number": 100,
+      "number": 92,
       "question": "How many goals did Manchester United score on their way to winning the 1991 European Cup Winners' Cup?",
       "option_a": "17",
       "option_b": "18",
       "option_c": "19",
       "option_d": "20",
       "correct": "17"
+    },
+    {
+      "number": 93,
+      "question": "Manchester United won their 5th FA Cup in 1983. But who did they beat in the 4th round 2-0 on the way to that victory?",
+      "option_a": "Watford",
+      "option_b": "Burnley",
+      "option_c": "Stoke City",
+      "option_d": "Luton Town",
+      "correct": "Luton Town"
+    },
+    {
+      "number": 94,
+      "question": "Foster, O'Shea, Ferdinand, Evans, Evra, Ronaldo, Scholes, Nani, Welbeck, Tevez. Who else started the 2009 League Cup Final win over Tottenham Hotspur?",
+      "option_a": "Anderson",
+      "option_b": "Darren Gibson",
+      "option_c": "Park Ji-Sung",
+      "option_d": "Ryan Giggs",
+      "correct": "Darren Gibson"
+    },
+    {
+      "number": 95,
+      "question": "How many goals did Manchester United score on their way to winning the 2009 League Cup?",
+      "option_a": "11",
+      "option_b": "13",
+      "option_c": "15",
+      "option_d": "17",
+      "correct": "13"
+    },
+    {
+      "number": 96,
+      "question": "By what margin did manchester United win the 1956-57 Football League title?",
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "8"
+    },
+    {
+      "number": 97,
+      "question": "By what margin did manchester United win the 1966-67 Football League title?",
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "4"
+    },
+    {
+      "number": 98,
+      "question": "Manchester United won their 7th League title in the 1966/1967 Football League season. Who finished 2nd that season?",
+      "option_a": "Nottingham Forest",
+      "option_b": "Tottenham Hotspur",
+      "option_c": "Leeds United",
+      "option_d": "Liverpool",
+      "correct": "Nottingham Forest"
+    },
+    {
+      "number": 99,
+      "question": "Which player scored United's only goal as they won the 1997 Charity Shield on penalties after a 1-1 draw?",
+      "option_a": "Gary Pallister",
+      "option_b": "Gary Neville",
+      "option_c": "Jordi Cruyff",
+      "option_d": "Ronny Johnsen",
+      "correct": "Ronny Johnsen"
+    },
+    {
+      "number": 100,
+      "question": "After 26 years, Manchester United finally ended their English League title drought by winning the 1992/93 Premier League title. But who finished 2nd that season?",
+      "option_a": "Blackburn Rovers",
+      "option_b": "Norwich City",
+      "option_c": "Queens Park Rangers",
+      "option_d": "Aston Villa",
+      "correct": "Aston Villa"
     }
   ]
 }

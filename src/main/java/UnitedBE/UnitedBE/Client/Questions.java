@@ -25,8 +25,8 @@ public class Questions {
     ObjectMapper mapper = new ObjectMapper();
     Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
 
-    Object easyQuestions = map.get(level);
-    List<Object> option = questionSelect.convertObjectToList(easyQuestions);
+    Object questions = map.get(level);
+    List<Object> option = questionSelect.convertObjectToList(questions);
     Integer number = option.size();
 
     return option.get(rn.nextInt(number));
