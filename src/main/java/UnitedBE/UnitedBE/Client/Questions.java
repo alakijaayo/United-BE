@@ -2,6 +2,7 @@ package UnitedBE.UnitedBE.Client;
 
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
@@ -15,6 +16,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Component
 public class Questions {
+  Integer number = 99;
+  ArrayList<Integer> questionNumber = new ArrayList<Integer>();
   Random rn = new Random();
   
   @Autowired
@@ -27,8 +30,17 @@ public class Questions {
 
     Object questions = map.get(level);
     List<Object> option = questionSelect.convertObjectToList(questions);
-    Integer number = option.size();
-
-    return option.get(rn.nextInt(number));
+    Integer number = selectNumber();
+    return option.get(number);
   }
+
+  public Integer selectNumber() {
+    Integer test = rn.nextInt(number);
+    if (questionNumber.contains(test)) {
+      selectNumber();
+    } else {
+      questionNumber.add(test);
+    }
+    return questionNumber.get(questionNumber.size() -1);
+  };
 }

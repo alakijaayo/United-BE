@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class QuestionSelect {
 
-  public final List<Object> convertObjectToList(Object obj) {
+  public List<Object> convertObjectToList(Object obj) {
     List<Object> list = new ArrayList<>();
     if (obj.getClass().isArray()) {
         list = Arrays.asList((Object[])obj);
