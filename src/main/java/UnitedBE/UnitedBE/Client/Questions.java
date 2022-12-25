@@ -23,21 +23,24 @@ public class Questions {
   @Autowired
   QuestionSelect questionSelect;
 
-  public Object levelQuestion(String level) throws StreamReadException, DatabindException, IOException {
+  public Object levelQuestion(String level, String question) throws StreamReadException, DatabindException, IOException {
     String url = "src/main/resources/data/" + level + ".json";
     ObjectMapper mapper = new ObjectMapper();
     Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
 
     Object questions = map.get(level);
     List<Object> option = questionSelect.convertObjectToList(questions);
-    Integer number = selectNumber();
+    Integer number = selectNumber(question);
     return option.get(number);
   }
 
-  public Integer selectNumber() {
+  public Integer selectNumber(String question) {
+    if (question.equals("1")) {
+      questionNumber.clear();
+    }
     Integer test = rn.nextInt(number);
     if (questionNumber.contains(test)) {
-      selectNumber();
+      selectNumber(question);
     } else {
       questionNumber.add(test);
     }
