@@ -381,11 +381,11 @@
     {
       "number": 43,
       "question": "Manchester United signed Bryan Robson from which club?",
-      "option_a": "West Brom",
+      "option_a": "West Bromwich Albion",
       "option_b": "Birmingham City",
       "option_c": "Aston Villa",
       "option_d": "Wolves",
-      "correct": "West Brom"
+      "correct": "West Bromwich Albion"
     },
     {
       "number": 44,
@@ -542,12 +542,12 @@
     },
     {
       "number": 61,
-      "question": "Where did United sign Bryan Robson from?",
-      "option_a": "Sunderland",
-      "option_b": "West Bromwich Albion",
-      "option_c": "Newcastle United",
-      "option_d": "Middlesbrough",
-      "correct": "west Bromwich Albion"
+      "question": "From which French side did Manchester United sign Fabien Barthez?",
+      "option_a": "Le Harve AC",
+      "option_b": "Monaco",
+      "option_c": "Marseille",
+      "option_d": "Lyon",
+      "correct": "Monaco"
     },
     {
       "number": 62,
