@@ -30,8 +30,8 @@ public class Questions {
 
     Object questions = map.get(level);
     List<Object> option = questionSelect.convertObjectToList(questions);
-    Integer number = selectNumber(question);
-    return option.get(number);
+    Integer getNumber = selectNumber(question);
+    return option.get(getNumber);
   }
 
   public Integer selectNumber(String question) {
