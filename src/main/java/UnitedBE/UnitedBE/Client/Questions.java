@@ -38,11 +38,11 @@ public class Questions {
     if (question.equals("1")) {
       questionNumber.clear();
     }
-    Integer test = rn.nextInt(number);
-    if (questionNumber.contains(test)) {
+    Integer newNumber = rn.nextInt(number);
+    if (questionNumber.contains(newNumber)) {
       selectNumber(question);
     } else {
-      questionNumber.add(test);
+      questionNumber.add(newNumber);
     }
     return questionNumber.get(questionNumber.size() -1);
   };
