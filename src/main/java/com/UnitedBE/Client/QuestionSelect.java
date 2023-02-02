@@ -1,4 +1,4 @@
-package UnitedBE.UnitedBE.Client;
+package com.UnitedBE.Client;
 
 import java.util.ArrayList;
 import java.util.Arrays;

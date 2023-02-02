@@ -1,4 +1,4 @@
-package UnitedBE.UnitedBE.Controller;
+package com.UnitedBE.Controller;
 
 import java.io.IOException;
 
@@ -8,10 +8,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.UnitedBE.Client.Questions;
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
-
-import UnitedBE.UnitedBE.Client.Questions;
 
 
 @CrossOrigin(origins = "http://localhost:3000")

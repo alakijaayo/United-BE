@@ -1,4 +1,4 @@
-package UnitedBE.UnitedBE.Client;
+package com.UnitedBE.Client;
 
 import java.io.IOException;
 import java.nio.file.Paths;
