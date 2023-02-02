@@ -34,4 +34,14 @@ public class UnitedController {
   public Object hardQuestion(@RequestParam String questionNumber) throws StreamReadException, DatabindException, IOException {
     return question.levelQuestion("hard", questionNumber);
   }
+
+  @GetMapping("/error")
+  public String error() {
+    return "Not working properly";
+  }
+
+  @GetMapping("/status")
+  public String status() {
+    return "Hello world! 200 ok";
+  }
 }
