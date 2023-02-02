@@ -28,7 +28,6 @@ public class Questions {
     ObjectMapper mapper = new ObjectMapper();
     
     try {
-      
       Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
       Object questions = map.get(level);
       option = questionSelect.convertObjectToList(questions);
@@ -37,7 +36,6 @@ public class Questions {
       System.out.println(e);
     }
 
-    System.out.println(option.get(0));
     return option.get(getNumber);
   }
 

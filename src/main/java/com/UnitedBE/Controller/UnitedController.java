@@ -42,4 +42,9 @@ public class UnitedController {
   public String status() {
     return "Hello world! 200 ok";
   }
+  
+  @GetMapping("/random")
+  public String random() {
+    return "Why does this one work and others fail?";
+  }
 }
