@@ -1,16 +1,14 @@
 package com.UnitedBE.Controller;
 
-import java.io.IOException;
-
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.UnitedBE.Client.Questions;
-import com.fasterxml.jackson.core.exc.StreamReadException;
-import com.fasterxml.jackson.databind.DatabindException;
 
 
 @CrossOrigin(origins = "http://localhost:3000")
@@ -21,18 +19,18 @@ public class UnitedController {
   Questions question;
 
   @GetMapping("/easy")
-  public Object easyQuestion(@RequestParam String questionNumber) throws StreamReadException, DatabindException, IOException {
-    return question.levelQuestion("easy", questionNumber);
+  public ResponseEntity<Object>easyQuestion(@RequestParam String questionNumber) {
+    return new ResponseEntity<>(question.levelQuestion("easy", questionNumber), HttpStatus.OK);
   }
 
   @GetMapping("/medium")
-  public Object mediumQuestion(@RequestParam String questionNumber) throws StreamReadException, DatabindException, IOException {
-    return question.levelQuestion("medium", questionNumber);
+  public ResponseEntity<Object>mediumQuestion(@RequestParam String questionNumber) {
+    return new ResponseEntity<>(question.levelQuestion("medium", questionNumber), HttpStatus.OK);
   }
 
   @GetMapping("/hard")
-  public Object hardQuestion(@RequestParam String questionNumber) throws StreamReadException, DatabindException, IOException {
-    return question.levelQuestion("hard", questionNumber);
+  public ResponseEntity<Object>hardQuestion(@RequestParam String questionNumber) {
+    return new ResponseEntity<>(question.levelQuestion("hard", questionNumber), HttpStatus.OK);
   }
 
   @GetMapping("/error")

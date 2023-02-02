@@ -10,8 +10,6 @@ import java.util.Random;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.fasterxml.jackson.core.exc.StreamReadException;
-import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Component
@@ -19,18 +17,27 @@ public class Questions {
   Integer number = 99;
   ArrayList<Integer> questionNumber = new ArrayList<Integer>();
   Random rn = new Random();
+  List<Object> option;
+  Integer getNumber;
   
   @Autowired
   QuestionSelect questionSelect;
 
-  public Object levelQuestion(String level, String question) throws StreamReadException, DatabindException, IOException {
+  public Object levelQuestion(String level, String question) {
     String url = "src/main/resources/data/" + level + ".json";
     ObjectMapper mapper = new ObjectMapper();
-    Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
+    
+    try {
+      
+      Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
+      Object questions = map.get(level);
+      option = questionSelect.convertObjectToList(questions);
+      getNumber = selectNumber(question);
+    } catch (IOException e) {
+      System.out.println(e);
+    }
 
-    Object questions = map.get(level);
-    List<Object> option = questionSelect.convertObjectToList(questions);
-    Integer getNumber = selectNumber(question);
+    System.out.println(option.get(0));
     return option.get(getNumber);
   }
 
