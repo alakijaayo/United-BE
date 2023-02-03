@@ -1,7 +1,6 @@
 package com.UnitedBE.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -20,22 +19,17 @@ public class UnitedController {
 
   @GetMapping("/easy")
   public ResponseEntity<Object>easyQuestion(@RequestParam String questionNumber) {
-    return new ResponseEntity<>(question.levelQuestion("easy", questionNumber), HttpStatus.OK);
+    return ResponseEntity.ok(question.levelQuestion("easy", questionNumber));
   }
 
   @GetMapping("/medium")
   public ResponseEntity<Object>mediumQuestion(@RequestParam String questionNumber) {
-    return new ResponseEntity<>(question.levelQuestion("medium", questionNumber), HttpStatus.OK);
+    return ResponseEntity.ok(question.levelQuestion("medium", questionNumber));
   }
 
   @GetMapping("/hard")
   public ResponseEntity<Object>hardQuestion(@RequestParam String questionNumber) {
-    return new ResponseEntity<>(question.levelQuestion("hard", questionNumber), HttpStatus.OK);
-  }
-
-  @GetMapping("/error")
-  public String error() {
-    return "Not working properly";
+    return ResponseEntity.ok(question.levelQuestion("hard", questionNumber));
   }
 
   @GetMapping("/status")
