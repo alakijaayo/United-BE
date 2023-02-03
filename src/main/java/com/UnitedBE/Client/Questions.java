@@ -24,7 +24,7 @@ public class Questions {
   QuestionSelect questionSelect;
 
   public Object levelQuestion(String level, String question) {
-    String url = "src/main/resources/data/" + level + ".json";
+    String url = "/home/ec2-user/server/" + level + ".json";
     ObjectMapper mapper = new ObjectMapper();
     
     try {
