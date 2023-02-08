@@ -23,8 +23,13 @@ public class Questions {
   @Autowired
   QuestionSelect questionSelect;
 
-  public Object levelQuestion(String level, String question) {
-    String url = "/home/ec2-user/server/" + level + ".json";
+  public Object levelQuestion(String level, String question, String environment) {
+    String url;
+    if(environment.equals("development")) {
+      url = "src/main/resources/data/" + level + ".json";
+    } else {
+      url = "/home/ec2-user/server/" + level + ".json";
+    }
     ObjectMapper mapper = new ObjectMapper();
     
     try {

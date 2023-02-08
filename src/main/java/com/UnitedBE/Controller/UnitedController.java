@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.UnitedBE.Client.Questions;
 
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = {"http://localhost:3000", "http://unitedfebucket.s3-website.eu-west-2.amazonaws.com"})
 @RestController
 public class UnitedController {
 
@@ -18,27 +18,17 @@ public class UnitedController {
   Questions question;
 
   @GetMapping("/easy")
-  public ResponseEntity<Object>easyQuestion(@RequestParam String questionNumber) {
-    return ResponseEntity.ok(question.levelQuestion("easy", questionNumber));
+  public ResponseEntity<Object>easyQuestion(@RequestParam String questionNumber, @RequestParam String environment) {
+    return ResponseEntity.ok(question.levelQuestion("easy", questionNumber, environment));
   }
 
   @GetMapping("/medium")
-  public ResponseEntity<Object>mediumQuestion(@RequestParam String questionNumber) {
-    return ResponseEntity.ok(question.levelQuestion("medium", questionNumber));
+  public ResponseEntity<Object>mediumQuestion(@RequestParam String questionNumber, @RequestParam String environment) {
+    return ResponseEntity.ok(question.levelQuestion("medium", questionNumber, environment));
   }
 
   @GetMapping("/hard")
-  public ResponseEntity<Object>hardQuestion(@RequestParam String questionNumber) {
-    return ResponseEntity.ok(question.levelQuestion("hard", questionNumber));
-  }
-
-  @GetMapping("/status")
-  public String status() {
-    return "Hello world! 200 ok";
-  }
-  
-  @GetMapping("/random")
-  public String random() {
-    return "Why does this one work and others fail?";
+  public ResponseEntity<Object>hardQuestion(@RequestParam String questionNumber, @RequestParam String environment) {
+    return ResponseEntity.ok(question.levelQuestion("hard", questionNumber, environment));
   }
 }
