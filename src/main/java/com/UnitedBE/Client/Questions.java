@@ -3,7 +3,7 @@ package com.UnitedBE.Client;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
@@ -15,15 +15,14 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @Component
 public class Questions {
   Integer number = 99;
-  ArrayList<Integer> questionNumber = new ArrayList<Integer>();
+  ArrayList<Integer> questionsSelected = new ArrayList<Integer>();
   Random rn = new Random();
-  List<Object> option;
   Integer getNumber;
   
   @Autowired
   QuestionSelect questionSelect;
 
-  public Object levelQuestion(String level, String question, String environment) {
+  public HashMap<String, String> levelQuestion(String level, String questionNumber, String environment) {
     String url;
     if(environment.equals("development")) {
       url = "src/main/resources/data/" + level + ".json";
@@ -35,25 +34,26 @@ public class Questions {
     try {
       Map<?, ?> map = mapper.readValue(Paths.get(url).toFile(), Map.class);
       Object questions = map.get(level);
-      option = questionSelect.convertObjectToList(questions);
-      getNumber = selectNumber(question);
+      questionSelect.convertObjectToList(questions);
+      getNumber = selectNumber(questionNumber);
     } catch (IOException e) {
       System.out.println(e);
     }
 
-    return option.get(getNumber);
+    HashMap<String, String> question = questionSelect.getQuestion(getNumber);
+    return question;
   }
 
   public Integer selectNumber(String question) {
     if (question.equals("1")) {
-      questionNumber.clear();
+      questionsSelected.clear();
     }
     Integer newNumber = rn.nextInt(number);
-    if (questionNumber.contains(newNumber)) {
+    if (questionsSelected.contains(newNumber)) {
       selectNumber(question);
     } else {
-      questionNumber.add(newNumber);
+      questionsSelected.add(newNumber);
     }
-    return questionNumber.get(questionNumber.size() -1);
+    return questionsSelected.get(questionsSelected.size() -1);
   };
 }
