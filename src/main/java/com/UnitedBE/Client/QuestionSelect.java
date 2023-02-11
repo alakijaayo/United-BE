@@ -22,9 +22,16 @@ public class QuestionSelect {
 
   public HashMap<String, String> getQuestion(Integer number) {
     @SuppressWarnings("unchecked")
+    HashMap<String, String> questionChoice = (HashMap<String, String>) list.get(number);
+
+    questionChoice.remove("correct");
+    return questionChoice;
+  }
+
+  public HashMap<String, String> checkQuestionAnswer(Integer number) {
+    @SuppressWarnings("unchecked")
     HashMap<String, String> question = (HashMap<String, String>) list.get(number);
 
-    question.remove("correct");
     return question;
   }
 }
