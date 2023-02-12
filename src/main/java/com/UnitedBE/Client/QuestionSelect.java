@@ -24,7 +24,6 @@ public class QuestionSelect {
     @SuppressWarnings("unchecked")
     HashMap<String, String> questionChoice = (HashMap<String, String>) list.get(number);
 
-    questionChoice.remove("correct");
     return questionChoice;
   }
 

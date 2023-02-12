@@ -22,24 +22,21 @@ public class Questions {
   @Autowired
   GetFileData getFileData;
 
-  public HashMap<String, String> levelQuestion(String level, String questionNumber, String environment) {
+  public HashMap<String, String> levelQuestion(String level, String environment) {
     userEnvironment = environment;
     userLevel = level;
 
     Object getData = getFileData.selectFile(level, environment);
-    getNumber = selectNumber(questionNumber);
+    getNumber = selectNumber();
     questionSelect.convertObjectToList(getData);
     HashMap<String, String> question = questionSelect.getQuestion(getNumber);
     return question;
   }
 
-  public Integer selectNumber(String question) {
-    if (question.equals("1")) {
-      questionsSelected.clear();
-    }
+  public Integer selectNumber() {
     Integer newNumber = rn.nextInt(number);
     if (questionsSelected.contains(newNumber)) {
-      selectNumber(question);
+      selectNumber();
     } else {
       questionsSelected.add(newNumber);
     }

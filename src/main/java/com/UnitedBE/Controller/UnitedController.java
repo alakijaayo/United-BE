@@ -19,19 +19,19 @@ public class UnitedController {
   @Autowired
   Questions question;
 
-  @GetMapping("/easy/{questionNumber}/{environment}")
-  public ResponseEntity<Object> easyQuestion(@PathVariable String questionNumber, @PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("easy", questionNumber, environment));
+  @GetMapping("/easy/{environment}")
+  public ResponseEntity<Object> easyQuestion(@PathVariable String environment) {
+    return ResponseEntity.ok(question.levelQuestion("easy", environment));
   }
 
-  @GetMapping("/medium/{questionNumber}/{environment}")
-  public ResponseEntity<Object> mediumQuestion(@PathVariable String questionNumber, @PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("medium", questionNumber, environment));
+  @GetMapping("/medium/{environment}")
+  public ResponseEntity<Object> mediumQuestion( @PathVariable String environment) {
+    return ResponseEntity.ok(question.levelQuestion("medium", environment));
   }
 
-  @GetMapping("/hard/{questionNumber}/{environment}")
-  public ResponseEntity<Object> hardQuestion(@PathVariable String questionNumber, @PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("hard", questionNumber, environment));
+  @GetMapping("/hard/{environment}")
+  public ResponseEntity<Object> hardQuestion( @PathVariable String environment) {
+    return ResponseEntity.ok(question.levelQuestion("hard", environment));
   }
 
   @PostMapping("/checkAnswer")
