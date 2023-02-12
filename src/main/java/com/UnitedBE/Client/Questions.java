@@ -12,7 +12,6 @@ public class Questions {
   Integer number = 99;
   ArrayList<Integer> questionsSelected = new ArrayList<Integer>();
   Random rn = new Random();
-  Integer getNumber;
   String userEnvironment;
   String userLevel;
   
@@ -27,9 +26,8 @@ public class Questions {
     userLevel = level;
 
     Object getData = getFileData.selectFile(level, environment);
-    getNumber = selectNumber();
     questionSelect.convertObjectToList(getData);
-    HashMap<String, String> question = questionSelect.getQuestion(getNumber);
+    HashMap<String, String> question = questionSelect.getQuestion(selectNumber());
     return question;
   }
 
