@@ -45,7 +45,7 @@ public class GetFileData {
     return questions;
   }
 
-  public HashMap<String, String> checkAnswer(String level, String environment, String body) {   
+  public HashMap<String, String> checkAnswer(QuestionData questionData, String body) {   
     try {
       JSONObject answer = (JSONObject) getAnswer.parse(body);
       number = (int) (long) answer.get("number") - 1; 
@@ -54,14 +54,18 @@ public class GetFileData {
       System.out.println(e);
     }
 
-    Object data = selectFile(level, environment);
+    Object data = selectFile(questionData.getUserLevel(), questionData.getUserEnvrironment());
     questionSelect.convertObjectToList(data);
 
     HashMap<String, String> question = questionSelect.checkQuestionAnswer(number);
+    response.put("level", "/" + questionData.getUserLevel());
     if (question.get("correct").equals(userChoice)) {
+      questionData.setScoreCount();
       response.put("url", "/correct");
+      response.put("score", questionData.getScoreCount().toString());
     } else {
       response.put("url", "/incorrect");
+      response.put("answer", question.get("correct"));
     } 
 
    return response;

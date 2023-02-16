@@ -12,8 +12,9 @@ public class Questions {
   Integer number = 99;
   ArrayList<Integer> questionsSelected = new ArrayList<Integer>();
   Random rn = new Random();
-  String userEnvironment;
-  String userLevel;
+  
+  @Autowired
+  QuestionData questionData;
   
   @Autowired
   QuestionSelect questionSelect;
@@ -22,8 +23,8 @@ public class Questions {
   GetFileData getFileData;
 
   public HashMap<String, String> levelQuestion(String level, String environment) {
-    userEnvironment = environment;
-    userLevel = level;
+    questionData.setUserEnvironment(environment);
+    questionData.setUserLevel(level);;
 
     Object getData = getFileData.selectFile(level, environment);
     questionSelect.convertObjectToList(getData);
@@ -42,6 +43,6 @@ public class Questions {
   };
 
   public HashMap<String, String> checkAnswer(String body) {
-    return getFileData.checkAnswer(userLevel, userEnvironment, body);
+    return getFileData.checkAnswer(questionData, body);
   }
 }
