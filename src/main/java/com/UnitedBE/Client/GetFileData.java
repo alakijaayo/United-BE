@@ -58,6 +58,7 @@ public class GetFileData {
     questionSelect.convertObjectToList(data);
 
     HashMap<String, String> question = questionSelect.checkQuestionAnswer(number);
+    response.clear();
     response.put("level", "/" + questionData.getUserLevel());
     if (question.get("correct").equals(userChoice)) {
       questionData.setScoreCount();
