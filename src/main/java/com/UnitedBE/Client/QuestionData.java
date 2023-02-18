@@ -78,7 +78,7 @@ public class QuestionData {
     return response;
   }
 
-  public HashMap<String, String>  setScore(String userQuestion, String score, String pathname) {
+  public HashMap<String, String> setScore(String userQuestion, String score, String pathname) {
     response.clear();
 
     if ((pathname.equals( "easy")) || (pathname.equals("medium")) || pathname.equals("hard")) {
@@ -93,7 +93,7 @@ public class QuestionData {
       scoreCount = Integer.parseInt(score);
       
       response.put("score", scoreCount.toString());
-      response.put("link", userLevel);
+      response.put("link", "/" + userLevel);
       response.put("questionCount", questionCount.toString());
     return response;
   }

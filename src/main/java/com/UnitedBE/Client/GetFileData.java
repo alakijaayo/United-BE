@@ -64,12 +64,12 @@ public class GetFileData {
     if (question.get("correct").equals(userChoice)) {
       questionData.setScoreCount();
       response.put("url", "/correct");
-      response.put("score", questionData.getScoreCount().toString());
     } else {
       response.put("url", "/incorrect");
       response.put("answer", question.get("correct"));
     } 
-
+    
+    response.put("score", questionData.getScoreCount().toString());
    return response;
   }
 }
