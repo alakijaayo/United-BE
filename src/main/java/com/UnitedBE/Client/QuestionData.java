@@ -14,6 +14,7 @@ public class QuestionData {
   Random rn = new Random();
   String userEnvironment;
   String userLevel;
+  String correctAnswer;
   ArrayList<Integer> questionsSelected = new ArrayList<Integer>();
   HashMap<String, String> response = new HashMap<>();
 
@@ -23,6 +24,10 @@ public class QuestionData {
 
   public void setUserEnvironment(String environment) {
     this.userEnvironment = environment;
+  }
+
+  public void setCorrectAnswer(String correctAnswer) {
+    this.correctAnswer = correctAnswer;
   }
 
   public String getUserLevel() {
@@ -72,4 +77,25 @@ public class QuestionData {
     response.put("questionCount", questionCount.toString());
     return response;
   }
+
+  public HashMap<String, String>  setScore(String userQuestion, String score, String pathname) {
+    response.clear();
+
+    if ((pathname.equals( "easy")) || (pathname.equals("medium")) || pathname.equals("hard")) {
+        questionsSelected.remove(questionsSelected.size() - 1);
+        questionCount -= 1;
+      } else {
+        if (pathname.equals("incorrect")) {
+          response.put("answer", correctAnswer);
+        }
+        questionCount = Integer.parseInt(userQuestion);
+      }
+      scoreCount = Integer.parseInt(score);
+      
+      response.put("score", scoreCount.toString());
+      response.put("link", userLevel);
+      response.put("questionCount", questionCount.toString());
+    return response;
+  }
 }
+

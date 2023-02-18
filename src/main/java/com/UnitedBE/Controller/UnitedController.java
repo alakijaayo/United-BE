@@ -20,28 +20,34 @@ public class UnitedController {
   Questions question;
 
   @GetMapping("/easy/{environment}")
-  public ResponseEntity<Object> easyQuestion(@PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("easy", environment));
+    public ResponseEntity<Object> easyQuestion(@PathVariable String environment) {
+      return ResponseEntity.ok(question.levelQuestion("easy", environment));
   }
 
   @GetMapping("/medium/{environment}")
-  public ResponseEntity<Object> mediumQuestion( @PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("medium", environment));
+    public ResponseEntity<Object> mediumQuestion(@PathVariable String environment) {
+      return ResponseEntity.ok(question.levelQuestion("medium", environment));
   }
 
   @GetMapping("/hard/{environment}")
-  public ResponseEntity<Object> hardQuestion( @PathVariable String environment) {
-    return ResponseEntity.ok(question.levelQuestion("hard", environment));
+    public ResponseEntity<Object> hardQuestion(@PathVariable String environment) {
+      return ResponseEntity.ok(question.levelQuestion("hard", environment));
   }
 
+  @GetMapping("/setScore/{questionCount}/{score}/{pathname}") 
+    public ResponseEntity<Object> setScore(@PathVariable String questionCount, @PathVariable String score, @PathVariable String pathname) {
+      return ResponseEntity.ok(question.setScore(questionCount, score, pathname));
+    }
+  
+
   @PostMapping("/checkAnswer")
-  public ResponseEntity<Object> checkAnswer(@RequestBody String answer) {
-    return ResponseEntity.ok(question.checkAnswer(answer));
+    public ResponseEntity<Object> checkAnswer(@RequestBody String answer) {
+      return ResponseEntity.ok(question.checkAnswer(answer));
   }
 
   @PostMapping("/clear")
-  public ResponseEntity<Object>reset() {
-    return ResponseEntity.ok(question.resetNumbers());
+    public ResponseEntity<Object>reset() {
+      return ResponseEntity.ok(question.resetNumbers());
   }
   
 }

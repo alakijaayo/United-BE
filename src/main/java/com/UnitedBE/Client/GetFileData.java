@@ -60,6 +60,7 @@ public class GetFileData {
     HashMap<String, String> question = questionSelect.checkQuestionAnswer(number);
     response.clear();
     response.put("level", "/" + questionData.getUserLevel());
+    questionData.setCorrectAnswer(question.get("correct"));
     if (question.get("correct").equals(userChoice)) {
       questionData.setScoreCount();
       response.put("url", "/correct");

@@ -38,4 +38,8 @@ public class Questions {
   public HashMap<String, String> resetNumbers() {
     return questionData.resetScoreCount();
   }
+
+  public HashMap<String, String> setScore(String questionCount, String score, String pathname) {
+    return questionData.setScore(questionCount, score, pathname);
+  }
 }
