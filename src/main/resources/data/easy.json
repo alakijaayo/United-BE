@@ -122,9 +122,9 @@
       "question": "How many times have United won the FA Cup?",
       "option_a": "3",
       "option_b": "6",
-      "option_c": "12",
+      "option_c": "13",
       "option_d": "9",
-      "correct": "12"
+      "correct": "13"
     },
     {
       "number": 15,
@@ -425,12 +425,12 @@
     },
     {
       "number": 48,
-      "question": "As of December 2022, who is the current Manchester United Manager?",
+      "question": "As of July 2025, who is the current Manchester United Manager?",
       "option_a": "Jose Mourinho",
       "option_b": "Pep Guardiola",
       "option_c": "Jurgen Klopp",
-      "option_d": "Erik Ten Hag",
-      "correct": "Erik Ten Hag"
+      "option_d": "Ruben Amorim",
+      "correct": "Ruben Amorim"
     },
     {
       "number": 49,
@@ -560,12 +560,12 @@
     },
     {
       "number": 63,
-      "question": "As of December 2022, who is the current captain of United's Womens team?",
-      "option_a": "Alessia Russo",
+      "question": "As of July 2025, who is the current captain of United's Womens team?",
+      "option_a": "Leah Galton",
       "option_b": "Maya Le Tissier",
-      "option_c": "Katie Zelem",
+      "option_c": "Celin Bizet",
       "option_d": "Ella Toone",
-      "correct": "Katie Zelem"
+      "correct": "Maya Le Tissier"
     },
     {
       "number": 64,
@@ -899,6 +899,60 @@
       "option_c": "Bryan Robson",
       "option_d": "Steve Bruce",
       "correct": "Bryan Robson"
+    },
+    {
+      "number": 101,
+      "question": "Which player scored the second goal as United beat City in the 2024 FA Cup Final?",
+      "option_a": "Kobbie Mainoo",
+      "option_b": "Alejandro Garnacho",
+      "option_c": "Marcus Rashford",
+      "option_d": "Lisandro Martinez",
+      "correct": "Kobbie Mainoo"
+    },
+    {
+      "number": 102,
+      "question": "Where did United finish in the 2024-25 season?",
+      "option_a": "3rd",
+      "option_b": "8th",
+      "option_c": "15th",
+      "option_d": "12th",
+      "correct": "15th"
+    },
+    {
+      "number": 103,
+      "question": "Who did Manchester United's Women's team beat to win their first trophy in the Women's FA Cup Final?",
+      "option_a": "Chelsea",
+      "option_b": "Tottenham Hotspur",
+      "option_c": "Arsenal",
+      "option_d": "Manchester City",
+      "correct": "Tottenham Hotspur"
+    },
+    {
+      "number": 104,
+      "question": "Manchester United bought Wayne Rooney from which club?",
+      "option_a": "Everton",
+      "option_b": "Liverpool",
+      "option_c": "Chelsea",
+      "option_d": "Bolton Wanderers",
+      "correct": "Everton"
+    },
+    {
+      "number": 105,
+      "question": "Manchester United bought Cristiano Ronaldo from which club?",
+      "option_a": "Sporting Lisbon",
+      "option_b": "Benfica",
+      "option_c": "Porto",
+      "option_d": "Boavista",
+      "correct": "Sporting Lisbon"
+    },
+    {
+      "number": 106,
+      "question": "As of July 2025, what is the highest position United Women;s team have finished in the WSL?",
+      "option_a": "2nd",
+      "option_b": "3rd",
+      "option_c": "4th",
+      "option_d": "5th",
+      "correct": "2nd"
     }
   ]
 }

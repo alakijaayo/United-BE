@@ -899,6 +899,42 @@
       "option_c": "Queens Park Rangers",
       "option_d": "Aston Villa",
       "correct": "Aston Villa"
+    },
+    {
+      "number": 101,
+      "question": "United last won the title in the 2012-13 season. How many goals did we concede that season?",
+      "option_a": "34",
+      "option_b": "39",
+      "option_c": "37",
+      "option_d": "43",
+      "correct": "43"
+    },
+    {
+      "number": 102,
+      "question": "Schmeichel, May, Bruce, Pallister, Sharpe, Kanchelskis, McClair, Ince, Giggs, Cantona. Who else started the 1994 Charity Shield that we won 2-0?",
+      "option_a": "Dion Dublin",
+      "option_b": "Nicky Butt",
+      "option_c": "Keith Gillespie",
+      "option_d": "Mark Hughes",
+      "correct": "Mark Hughes"
+    },
+    {
+      "number": 103,
+      "question": "Howard, Neville, Silvestre, O'Shea, Fortune, Bellion, Keane, Giggs, Scholes, Smith. Who else started the 2004 Community Shield against Arsenal?",
+      "option_a": "Eric Djemba-Djemba",
+      "option_b": "Kieran Richardson",
+      "option_c": "Chris Eagles",
+      "option_d": "Darren Fletcher",
+      "correct": "Eric Djemba-Djemba"
+    },
+    {
+      "number": 104,
+      "question": "Which United player finshed 2nd in the PFA Players' Player of the Year in the 1992-93 Premier League season?",
+      "option_a": "Eric Cantona",
+      "option_b": "Paul Ince",
+      "option_c": "Ryan Giggs",
+      "option_d": "Mark Hughes",
+      "correct": "Paul Ince"
     }
   ]
 }

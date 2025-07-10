@@ -899,6 +899,96 @@
       "option_c": "Edison Cavani",
       "option_d": "Anthony Martial",
       "correct": "Anthony Martial"
+    },
+    {
+      "number": 101,
+      "question": "Onana, Wan-Bissaka, Martinez, Varane, Dalot, Garnacho, Mainoo, Rashford, Fernandes, McTominay. Which player also started the 2024 FA Cup Final?",
+      "option_a": "Christian Eriksen",
+      "option_b": "Antony",
+      "option_c": "Rasmus Hojlund",
+      "option_d": "Sofyan Amrabat",
+      "correct": "Sofyan Amrabat"
+    },
+    {
+      "number": 102,
+      "question": "How many goals did Cristiano Ronaldo score in all competitions in his final full season with us?",
+      "option_a": "18",
+      "option_b": "24",
+      "option_c": "20",
+      "option_d": "22",
+      "correct": "24"
+    },
+    {
+      "number": 103,
+      "question": "Onana, Yoro, Maguire, Shaw, Mazraoui, Casemiro, Fernandes, Dorgu, Amad, Hojlund. Which other player started the 2025 Europa League Final that United lost to Tottenham?",
+      "option_a": "Alejandro Garnacho",
+      "option_b": "Joshua Zirkzee",
+      "option_c": "Mason Mount",
+      "option_d": "Manuel Ugarte",
+      "correct": "Mason Mount"
+    },
+    {
+      "number": 104,
+      "question": "Manchester United spectacularly came from behind to beat Lyon 5-4 in the Europa League Quarter Final. Who assisted the final two goals as well as won the penalty to complete the comeback?",
+      "option_a": "Casemiro",
+      "option_b": "Patrick Dorgu",
+      "option_c": "Mason Mount",
+      "option_d": "Manuel Ugarte",
+      "correct": "Casemiro"
+    },
+    {
+      "number": 105,
+      "question": "Which players finished top scorer for United in the Premier League 1992-93 season?",
+      "option_a": "Eric Cantona",
+      "option_b": "Brian McClair",
+      "option_c": "Mark Hughes",
+      "option_d": "Paul Parker",
+      "correct": "Mark Hughes"
+    },
+    {
+      "number": 106,
+      "question": "Which one of these players was not selected in the 1992-93 Premier League Team of the season?",
+      "option_a": "Eric Cantona",
+      "option_b": "Peter Schmeichel",
+      "option_c": "Gary Pallister",
+      "option_d": "Paul Ince",
+      "correct": "Eric Cantona"
+    },
+    {
+      "number": 107,
+      "question": "Two players scored hat-tricks in the season United clinched their 20th League Title. Robin Van Persie was one, but who was the other?",
+      "option_a": "Wayne Rooney",
+      "option_b": "Javier Hernandez",
+      "option_c": "Nani",
+      "option_d": "Shinji Kagawa",
+      "correct": "Shinji Kagawa"
+    },
+    {
+      "number": 108,
+      "question": "Who scored the opening goal of the 1998/1999 Premier League season?",
+      "option_a": "David Beckham",
+      "option_b": "Teddy Sheringham",
+      "option_c": "Ole Gunnar Solskjaer",
+      "option_d": "Andy Cole",
+      "correct": "Teddy Sheringham"
+    },
+    {
+      "number": 109,
+      "question": "Who scored the opening goal for the Women's team on their way to a 4-0 win over Tottenham in the 2024 Women's FA Cup Final?",
+      "option_a": "Lucia Garcia",
+      "option_b": "Ella Toone",
+      "option_c": "Leah Galton",
+      "option_d": "Rachel Williams",
+      "correct": "Ella Toone"
+    },
+    {
+      "number": 110,
+      "question": "Nemanja Vidic was signed from which club?",
+      "option_a": "Red Star Belgrade",
+      "option_b": "Spartak Moscow",
+      "option_c": "Spartak Subotica",
+      "option_d": "Shakhtar Donetsk",
+      "correct": "Spartak Moscow"
     }
   ]
 }
