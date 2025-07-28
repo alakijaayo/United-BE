@@ -935,6 +935,24 @@
       "option_c": "Ryan Giggs",
       "option_d": "Mark Hughes",
       "correct": "Paul Ince"
+    },
+    {
+      "number": 105,
+      "question": "Which team did Manchester United beat 2-0 in the 2nd qualifying round to progress to the 1998/1999 Champions League group stage?",
+      "option_a": "Obilić",
+      "option_b": "LKS Lodz",
+      "option_c": "FC Metz",
+      "option_d": "Rosenborg",
+      "correct": "LKS Lodz"
+    },
+    {
+      "number": 106,
+      "question": "Schmeichel, G Neville, Johnsen, Stam, Irwin, Beckham, Keane, Butt, Yorke, Cole. Which player also started the thrilling 3-2 win in the 2nd Leg of the semi-final against Juventus in the Champions League?",
+      "option_a": "Paul Scholes",
+      "option_b": "Jesper Blomqvist",
+      "option_c": "Ole Gunnar Solskjaer",
+      "option_d": "Phil Neville",
+      "correct": "Jesper Blomqvist"
     }
   ]
 }

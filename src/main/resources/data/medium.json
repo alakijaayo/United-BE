@@ -989,6 +989,15 @@
       "option_c": "Spartak Subotica",
       "option_d": "Shakhtar Donetsk",
       "correct": "Spartak Moscow"
+    },
+    {
+      "number": 111,
+      "question": "Who was United's top scorer in the Europa League on their way to winning it in 2017?",
+      "option_a": "Marcus Rashford",
+      "option_b": "Anthony Martial",
+      "option_c": "Zlatan Ibrahimovic",
+      "option_d": "Henrikh Mkhitaryan",
+      "correct": "Henrikh Mkhitaryan"
     }
   ]
 }
