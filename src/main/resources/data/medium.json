@@ -998,6 +998,15 @@
       "option_c": "Zlatan Ibrahimovic",
       "option_d": "Henrikh Mkhitaryan",
       "correct": "Henrikh Mkhitaryan"
+    },
+    {
+      "number": 112,
+      "question": "How many goals did Manchester United score on their way to winning the 2017 Europa League",
+      "option_a": "25",
+      "option_b": "26",
+      "option_c": "27",
+      "option_d": "28",
+      "correct": "25"
     }
   ]
 }
