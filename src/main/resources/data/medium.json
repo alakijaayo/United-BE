@@ -1016,6 +1016,51 @@
       "option_c": "Phil Neville",
       "option_d": "Wes Brown",
       "correct": "Phil Neville"
+    },
+    {
+      "number": 114,
+      "question": "Sir Alex Ferguson's first game in charge was a 2-0 loss to which team?",
+      "option_a": "Oxford United",
+      "option_b": "Arsenal",
+      "option_c": "Sheffield Wednesday",
+      "option_d": "Leeds United",
+      "correct": "Oxford United"
+    },
+    {
+      "number": 115,
+      "question": "Sir Alex Ferguson faced Arsene Wenger 49 times as United manager. How many games did he win?",
+      "option_a": "23",
+      "option_b": "26",
+      "option_c": "29",
+      "option_d": "32",
+      "correct": "23"
+    },
+    {
+      "number": 116,
+      "question": "Which of these managers did Sir Alex Ferguson not have an 100% win percentage against?",
+      "option_a": "Paul Lambert",
+      "option_b": "Paul Jewell",
+      "option_c": "Tony Pulis",
+      "option_d": "Aidy Boothroyd",
+      "correct": "Tony Pulis"
+    },
+    {
+      "number": 117,
+      "question": "Manchester United's only win in the UEFA Cup/Europa League under Sir Alex Ferguson came against which team?",
+      "option_a": "Athletic Bilbao",
+      "option_b": "Ajax Amsterdam",
+      "option_c": "Rotor Volgograd",
+      "option_d": "Torpedo Moscow",
+      "correct": "Ajax Amsterdam"
+    },
+    {
+      "number": 118,
+      "question": "Sir Alex Ferguson's managed Manchester United 202 times in the EuropeanCup/Champtions League. How many games did he win?",
+      "option_a": "100",
+      "option_b": "105",
+      "option_c": "110",
+      "option_d": "115",
+      "correct": "110"
     }
   ]
 }

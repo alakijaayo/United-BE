@@ -953,6 +953,24 @@
       "option_c": "Ole Gunnar Solskjaer",
       "option_d": "Phil Neville",
       "correct": "Jesper Blomqvist"
+    },
+    {
+      "number": 107,
+      "question": "In 1988, Manchester United bought Giuliano Maiorana from which club?",
+      "option_a": "Grantham Town",
+      "option_b": "Melton Town",
+      "option_c": "Histon F.C.",
+      "option_d": "Boston Town",
+      "correct": "Histon F.C."
+    },
+    {
+      "number": 108,
+      "question": "Manchester United played 8 games in the UEFA Cup/Europa League under Sir Alex Ferguson. How many did they win?",
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "1"
     }
   ]
 }
